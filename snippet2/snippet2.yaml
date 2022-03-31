@@ -1,0 +1,5 @@
+componentId: "@jigx/jw-cheering"
+options:
+  title: Hello
+  value: =@ctx.data.accounts-count.amount
+  description: Jigx is the best
