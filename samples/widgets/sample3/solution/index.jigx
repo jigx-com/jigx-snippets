@@ -1,5 +1,0 @@
-title: data-samples
-category: analytics
-widgets:
-  - size: 4x4 # choose size of the widget on the home hub
-    children: myFirstJig
