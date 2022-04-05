@@ -1,4 +1,0 @@
-componentId: "@jigx/jw-value"
-options:
-  title: My Accounts
-  value: =@ctx.data.accounts-count.amount
