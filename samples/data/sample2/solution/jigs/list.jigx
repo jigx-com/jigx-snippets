@@ -1,0 +1,62 @@
+name: ""
+referenceId: ""
+icon: apple
+
+actions:
+  - children:
+    - componentId: '@jigx/ja-go-to'
+      options:
+        title: "Add Item"
+        linkTo: "edit-item"
+        parameters:
+          item: ""
+
+views:
+  full:
+    actions:
+      gotoEdit:
+        componentId: '@jigx/ja-go-to'
+        options:
+          title: ""
+          linkTo: ""
+          parameters:
+            item: =@ctx.parents.list-data.item
+    data:
+      listdata:
+        componentId: '@jigx/jd-sqlite'
+        options:
+          query: ""
+          provider: DATA_PROVIDER_DYNAMIC
+          entities:
+            - ""
+    content:
+      children:
+        root:
+          componentId: '@jigx/jc-list'
+          options:
+            data: =@ctx.data.listdata
+            item:
+              componentId: '@jigx/jc-list-item'
+              options:
+                title: =@ctx.parents.list-data.item.thefield
+                subtitle: =@ctx.parents.list-data.item.thefield2
+                onPress: gotoEdit
+                leftElement:
+                  type: icon
+                  icon: beer-mug
+                swipeable:
+                  right:
+                    - label: "Delete"
+                      onPress:
+                        componentId: '@jigx/ja-delete'
+                        options:
+                          title: "Delete xxx"
+                          entity: ""
+                          entityId: =@ctx.parents.list-data.item.id
+                          provider: DATA_PROVIDER_DYNAMIC
+                          confirmModal:
+                            title: "Delete xxx"
+                            confirmText: "Ok"
+                            cancelText: "Cancel"
+                            description: "Are you sure you want to delete xxx?"
+                      color: error      

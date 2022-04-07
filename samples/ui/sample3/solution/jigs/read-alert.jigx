@@ -1,0 +1,54 @@
+name: Alert Details
+referenceId: read-alert
+
+views:
+  full:
+    data:
+      alert:
+        componentId: '@jigx/jd-sqlite'
+        options:
+          provider: DATA_PROVIDER_REST
+          entities:
+          -
+            entity: nws-alerts
+            projectId: archived-functions
+            parameters:
+              area: WA
+          parameters:
+            '@alertId': =@ctx.jig.inputs.alert.id
+          query: |
+            SELECT
+              '$.id', '$.areaDesc', '$.effective', '$.ends', '$.severity', '$.event', '$.headline', '$.description', '$.instruction'
+            FROM [nws-alerts]
+            WHERE id=@alertId
+
+    content:
+      children:
+        root:
+          componentId: '@jigx/jc-entity'
+
+          options:
+            children:
+              - componentId: '@jigx/jc-entity-field'
+                options:
+                  label: Event
+                  value: =@ctx.data.alert.event
+              - componentId: '@jigx/jc-entity-field'
+                options:
+                  label: Severity
+                  value: =@ctx.data.alert.severity
+              - componentId: '@jigx/jc-entity-field'
+                options:
+                  label: Headline
+                  value: =@ctx.data.alert.headline
+                  isMultiline: true
+              - componentId: '@jigx/jc-entity-field'
+                options:
+                  label: Description
+                  value: =@ctx.data.alert.description
+                  isMultiline: true
+              - componentId: '@jigx/jc-entity-field'
+                options:
+                  label: Instructions
+                  value: =@ctx.data.alert.instruction
+                  isMultiline: true

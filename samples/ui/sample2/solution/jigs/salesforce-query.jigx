@@ -1,0 +1,33 @@
+name: Salesforce Query
+icon: database-2
+views:
+  full:
+    data:
+      records:
+        componentId: "@jigx/jd-sqlite"
+        options:
+          provider: DATA_PROVIDER_REST
+          entities:
+          -
+            entity: salesforce-query
+            projectId: archived-functions
+            parameters:
+              accessToken: salesforce
+              q: SELECT id, name FROM Account
+          query: SELECT '$.id', '$.name' FROM [salesforce-query] ORDER BY [id] ASC
+    content:
+      children:
+        records-list:
+          componentId: "@jigx/jc-list"
+          options:
+            item:
+              componentId: "@jigx/jc-list-item"
+              options:
+                title: =@ctx.parents.list-data.item.name
+                subtitle: =@ctx.parents.list-data.item.id
+            data: =@ctx.data.records
+        root:
+          componentId: "@jigx/jl-container"
+          options:
+            children:
+              - records-list

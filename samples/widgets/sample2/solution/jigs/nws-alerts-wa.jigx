@@ -1,0 +1,41 @@
+name: NWS Alerts - WA
+icon: alert-triangle
+views:
+  full:
+    actions:
+      go-to-alert-detail:
+        componentId: '@jigx/ja-go-to'
+        options:
+          linkTo: read-alert
+          title: Alert Details
+          parameters:
+            alert: =@ctx.parents.list-data.item
+    data:
+      alerts:
+        componentId: "@jigx/jd-sqlite"
+        options:
+          provider: DATA_PROVIDER_REST
+          entities:
+          -
+            entity: nws-alerts
+            projectId: archived-functions
+            parameters:
+              area: WA
+          query: SELECT '$.id', '$.areaDesc', '$.effective', '$.ends', '$.severity', '$.event', '$.headline', '$.description', '$.instructon' FROM [nws-alerts] ORDER BY [id] ASC
+    content:
+      children:
+        alerts-list:
+          componentId: "@jigx/jc-list"
+          options:
+            item:
+              componentId: "@jigx/jc-list-item"
+              options:
+                title: =@ctx.parents.list-data.item.event
+                subtitle: =@ctx.parents.list-data.item.areaDesc
+                onPress: go-to-alert-detail
+            data: =@ctx.data.alerts
+        root:
+          componentId: "@jigx/jl-container"
+          options:
+            children:
+              - alerts-list

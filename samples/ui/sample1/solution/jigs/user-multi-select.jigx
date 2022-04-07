@@ -1,0 +1,71 @@
+name: Multi-Select
+icon: multiple-neutral-2
+referenceId: user-multi-select
+
+actions:
+  #1 set of actions
+  - when: =@ctx.jig.state.sample-list.isSelectActive
+    style:
+      isDisabled: =$not(@ctx.jig.state.sample-list.isAnyItemSelected)
+      isEssential: true
+    children:
+      - componentId: '@jigx/ja-go-back'
+        options:
+          title: =@ctx.jig.state.list-data.($count(selectedItems) & ' selected')
+          icon: circle
+
+      - componentId: '@jigx/ja-go-to'
+        options:
+          title: Check Availability
+          icon: circle
+          linkTo: check-availability
+          parameters:
+            selected-users: =@ctx.jig.state.sample-list.selectedItems
+
+  #2 set of actions
+  - children:
+      - componentId: '@jigx/ja-go-back'
+        options:
+          title: Go back
+          icon: circle
+      - componentId: '@jigx/ja-go-back'
+        options:
+          title: Second back
+          icon: circle
+          style:
+            isError: true
+      - componentId: '@jigx/ja-go-back'
+        options:
+          title: Third back
+          icon: circle
+
+views:
+  full:
+    data:
+      components:
+        componentId: '@jigx/jd-static'
+        options:
+          data:
+            - name: Jim
+              value: jim@jigx.com
+              id: 'abc'
+            - name: Grant
+              value: grant@jigx.com
+            - name: Adriaan
+              value: adriaan@jigx.com
+              id: 'def'
+
+    content:
+      children:
+        root:
+          componentId: '@jigx/jc-list'
+          instanceId: sample-list
+          options:
+            isSelectable: true
+            data: =@ctx.data.components
+            item:
+              componentId: '@jigx/jc-list-item'
+              options:
+                title: =@ctx.parents.list-data.item.name
+                subtitle: =@ctx.parents.list-data.item.value
+                value:  =@ctx.parents.list-data.item.value

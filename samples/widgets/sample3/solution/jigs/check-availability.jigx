@@ -1,0 +1,38 @@
+name: Check Availability
+icon: calendar-3
+views:
+  full:
+    data:
+      availability:
+        componentId: "@jigx/jd-sqlite"
+        options:
+          provider: DATA_PROVIDER_REST
+          entities:
+          -
+            entity: rest-check-availability
+            projectId: archived-functions
+            parameters:
+              accessToken: microsoft
+              attendees:
+                =@ctx.jig.inputs.selected-users
+              timeslots:
+                start: '2020-12-01T00:00'
+                end: '2020-12-03T00:00'
+          query: SELECT '$.id', '$.confidence', '$.start', '$.end', '$.attendeeAvailability' FROM [rest-check-availability] ORDER BY [id] ASC
+    content:
+      children:
+        availability-list:
+          componentId: "@jigx/jc-list"
+          options:
+            item:
+              componentId: "@jigx/jc-list-item"
+              options:
+                title: ='Start ' & @ctx.parents.list-data.item.start
+                subtitle: =@ctx.parents.list-data.item.attendeeAvailability
+                description: ='Confidence ' & @ctx.parents.list-data.item.confidence
+            data: =@ctx.data.availability
+        root:
+          componentId: "@jigx/jl-container"
+          options:
+            children:
+              - availability-list
