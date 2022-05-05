@@ -1,0 +1,16 @@
+name: Image picker
+type: '@jigx/jig/form'
+icon: picture-landscape
+
+entity: ''
+
+#START_SNIPPET
+children:
+  - componentId: '@jigx/jc-image-picker'
+    options:
+      label: Add photo
+      isRequired: false
+      property: attachments
+      type: multiple
+      
+#END_SNIPPET

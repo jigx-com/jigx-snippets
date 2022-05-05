@@ -1,0 +1,39 @@
+name: Dropdown
+type: '@jigx/jig/form'
+icon: navigation-menu
+
+entity: ''
+
+#START_SNIPPET
+datasources:
+  # Static data dropdown - datasource code
+  dropdown:
+    componentId: '@jigx/jd-static'
+    options:
+      # Change title + value or add new title + value and add another fruit into the dropdown
+      data: 
+        - title: Apple
+          value: Apple
+        - title: Orange
+          value: Orange
+        - title: Peach
+          value: Peach
+        - title: Pear
+          value: Pear
+        - title: Other
+          value: Other
+
+children:
+  - componentId: '@jigx/jc-text-field'
+    options:
+      property: static
+      label: Static data dropdown ↓
+      
+  # Static data dropdown - children code
+  - componentId: '@jigx/jc-dropdown'
+    options:
+      data: =@ctx.data.dropdown
+      label: What is your favourite fruit?  
+      property: fruit
+      
+#END_SNIPPET

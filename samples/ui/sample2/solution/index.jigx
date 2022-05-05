@@ -1,5 +1,6 @@
-title: data-samples
+title: ui-samples
 category: analytics
+referenceId: trynow
 widgets:
   - size: 4x4 # choose size of the widget on the home hub
-    children: myFirstJig
+    children: control-image
