@@ -1,24 +1,25 @@
-name: Image
-type: '@jigx/jig/default'
+title: Image
+type: jig.default
 icon: picture-landscape
 
 #START_SNIPPET
-header:
-  children: 
-    componentId: '@jigx/jc-image'
-    options:
-      title: Image as Header
-      source:
-        uri: "https://static.remove.bg/remove-bg-web/2a274ebbb5879d870a69caae33d94388a88e0e35/assets/start-0e837dcc57769db2306d8d659f53555feb500b3c5d456879b9c843d1872e7baa.jpg"
 
 children:   
-  - componentId: "@jigx/jc-image"
+  - type: component.image
     options:
       # Change title and subtitle on your name and replace image link with some of your favorite Image
-      title: Image
-      subtitle: My subtitle
+      title: Eagles to the finals
+      subtitle: Today eagles won the semifinals
       source:
-        uri: "https://static.remove.bg/remove-bg-web/2a274ebbb5879d870a69caae33d94388a88e0e35/assets/start-0e837dcc57769db2306d8d659f53555feb500b3c5d456879b9c843d1872e7baa.jpg"
+        uri: https://cdn3.vectorstock.com/i/1000x1000/13/87/eagle-mascot-logo-sport-vector-27191387.jpg
+        
+views:
+  2x2:
+    type: widget.image
+    options:
+      source:
+        uri: https://cdn3.vectorstock.com/i/1000x1000/13/87/eagle-mascot-logo-sport-vector-27191387.jpg
+isPreviewEnabled: true
         
 #END_SNIPPET
         
