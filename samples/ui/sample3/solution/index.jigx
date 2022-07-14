@@ -1,5 +1,6 @@
-title: data-samples
+title: Line Chart
+name: trynow
 category: analytics
 widgets:
-  - size: 4x4 # choose size of the widget on the home hub
-    children: control-stepper
+  - size: 4x2 # choose size of the widget on the home hub
+    jigId: line-chart
