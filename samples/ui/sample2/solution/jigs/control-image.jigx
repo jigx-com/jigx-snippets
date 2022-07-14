@@ -19,7 +19,6 @@ views:
     options:
       source:
         uri: https://cdn3.vectorstock.com/i/1000x1000/13/87/eagle-mascot-logo-sport-vector-27191387.jpg
-isPreviewEnabled: true
-        
+                
 #END_SNIPPET
         

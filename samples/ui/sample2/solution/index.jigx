@@ -1,6 +1,6 @@
 title: Control Image
+name: trynow
 category: analytics
-referenceId: trynow
 widgets:
   - size: 2x2 # choose size of the widget on the home hub
     jigId: control-image
