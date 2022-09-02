@@ -1,0 +1,75 @@
+title: New opportunities 7
+type: jig.default
+icon: button-play
+datasources:
+  static-data-1:
+    options:
+      data:
+        - y: 10
+        - y: 80
+        - y: 60
+        - y: 85
+        - y: 10
+        - y: 50
+    type: datasource.static
+children:
+  - options:
+      chart:
+        height: 300
+      legend:
+        isHidden: false
+      series:
+        - animation:
+            direction: bottom-to-top
+          color: color5
+          data: =@ctx.datasources.static-data-1
+          dataLabels:
+            - isEnabled: true
+          layout: area-gradient
+          name: new opportunities
+      xAxis:
+        categories:
+          - Week 26
+          - Week 27
+          - Week 28
+          - Week 29
+          - Week 30
+          - Week 31
+      yAxis:
+        max: 100
+        min: 0
+    type: component.line-chart
+widgets:
+  2x2:
+    options:
+      chart:
+        options:
+          series:
+            - animation:
+                direction: bottom-to-top
+              color: color5
+              data: =@ctx.datasources.static-data-1
+              layout: area-gradient
+          xAxis:
+            categories:
+              - "26"
+              - "27"
+              - "28"
+              - "29"
+              - "30"
+              - "31"
+          yAxis:
+            max: 100
+            min: 0
+        type: component.line-chart
+      top:
+        options:
+          title: 14 new
+          subtitle: "This week  "
+          style:
+            isAlignRight: false
+            isValueBottom: false
+            isValueHidden: false
+          value: 0.1232
+        type: component.trend
+    type: widget.chart

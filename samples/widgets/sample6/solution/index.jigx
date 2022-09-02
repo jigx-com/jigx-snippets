@@ -2,5 +2,5 @@ title: Try now
 name: trynow
 category: personal
 widgets:
-  - size: 2x2
-    jigId: opp-trend-line
+  - size: 4x2
+    jigId: upcoming-patients

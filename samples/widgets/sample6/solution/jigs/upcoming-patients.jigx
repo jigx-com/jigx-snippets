@@ -1,0 +1,58 @@
+title: Upcoming patients
+type: jig.default
+icon: list-add
+datasources:
+  static-data:
+    options:
+      data:
+        - avatarText: JD
+          name: John Doe
+          session: 11:00 - 12:00
+        - avatarText: LB
+          name: Lisa Black
+          session: 13:00 - 15:00
+        - avatarText: SL
+          name: Stella Lennon
+          session: 15:00 - 15:30
+        - avatarText: MS
+          name: Mike Simpson
+          session: 15:30 - 16:00
+    type: datasource.static
+children:
+  - options:
+      children:
+        - options:
+            label: Status Full View
+            value: Not implemented yet
+          type: component.entity-field
+    type: component.entity
+#START_SNIPPET
+widgets:
+  2x4:
+    options:
+      children:
+        - options:
+            bottom:
+              options:
+                title: Tom Seller
+                subtitle: 10:00 - 11:30
+                align: center
+                icon: calendar
+              type: component.titles
+            text: J
+            uri: https://upload.wikimedia.org/wikipedia/en/a/a1/NafSadh_Profile.jpg
+          type: widget.avatar
+        - options:
+            data: =@ctx.datasources.static-data
+            item:
+              options:
+                title: =@ctx.current.item.name
+                subtitle: =@ctx.current.item.session
+                leftElement:
+                  element: avatar
+                  text: =@ctx.current.item.avatarText
+                  uri: https://upload.wikimedia.org/wikipedia/en/a/a1/NafSadh_Profile.jpg
+              type: component.list-item
+          type: widget.list
+    type: widget.group
+#END_SNIPPET

@@ -1,0 +1,34 @@
+title: New opportunities 5
+type: jig.default
+datasources:
+  static-data:
+    options:
+      data:
+        value: 178
+    type: datasource.static
+children:
+  - options:
+      children:
+        - options:
+            label: Status Full View
+            value: Not implemented yet
+          type: component.entity-field
+    type: component.entity
+#START_SNIPPET
+widgets:
+  2x2:
+    options:
+      align: right
+      bottom:
+        options:
+          title: New this week
+          style:
+            isAlignRight: true
+            isValueBottom: true
+          value: 0.1232
+        type: component.trend
+      format:
+        unit: Opportunities
+      value: 173
+    type: widget.value
+#END_SNIPPET

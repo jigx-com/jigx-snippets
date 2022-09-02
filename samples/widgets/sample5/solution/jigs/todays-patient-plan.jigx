@@ -1,0 +1,45 @@
+title: Today's patient plan
+type: jig.default
+icon: list-add
+datasources:
+  static-data:
+    options:
+      data:
+        - name: John Doe
+          session: 10:00 - 11:30
+        - name: Lisa Black
+          session: 13:00 - 14:00
+        - name: Stella Lennon
+          session: 15:00 - 15:30
+    type: datasource.static
+children:
+  - options:
+      children:
+        - options:
+            label: Status Full View
+            value: Not implemented yet
+          type: component.entity-field
+    type: component.entity
+#START_SNIPPET
+widgets:
+  4x2:
+    options:
+      children:
+        - options:
+            text: J
+            uri: https://upload.wikimedia.org/wikipedia/en/a/a1/NafSadh_Profile.jpg
+          type: widget.avatar
+        - options:
+            data: =@ctx.datasources.static-data
+            item:
+              options:
+                title: =@ctx.current.item.name
+                subtitle: =@ctx.current.item.session
+                leftElement:
+                  element: avatar
+                  text: NN
+                  uri: https://upload.wikimedia.org/wikipedia/en/a/a1/NafSadh_Profile.jpg
+              type: component.list-item
+          type: widget.list
+    type: widget.group
+#END_SNIPPET

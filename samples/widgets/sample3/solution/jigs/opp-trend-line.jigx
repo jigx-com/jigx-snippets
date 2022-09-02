@@ -1,0 +1,106 @@
+title: New opportunities 6
+type: jig.default
+datasources:
+  static-data:
+    options:
+      data:
+        - 40
+        - 40
+        - 50
+        - 57
+    type: datasource.static
+  static-data2:
+    options:
+      data:
+        - 43
+        - 48
+        - 37
+        - 89
+    type: datasource.static
+  static-data3:
+    options:
+      data:
+        - 45
+        - 64
+        - 20
+        - 50
+    type: datasource.static
+children:
+  - options:
+      chart:
+        height: 300
+        isAnimated: true
+      legend:
+        isHidden: false
+      series:
+        - animation:
+            direction: left-to-right
+          color: color7
+          data: =@ctx.datasources.static-data
+          layout: area-gradient
+          name: "2020"
+        - animation:
+            direction: left-to-right
+          color: color9
+          data: =@ctx.datasources.static-data2
+          layout: area-gradient
+          name: "2021"
+        - animation:
+            direction: left-to-right
+          color: color2
+          data: =@ctx.datasources.static-data3
+          layout: area-gradient
+          name: "2022"
+      xAxis:
+        categories:
+          - ""
+          - Prev
+          - Now
+      yAxis:
+        max: 100
+        min: 0
+    type: component.line-chart
+#START_SNIPPET
+widgets:
+  2x2:
+    options:
+      chart:
+        options:
+          plotOptions:
+            series:
+              marker:
+                isHidden: true
+          series:
+            - animation:
+                direction: bottom-to-top
+              color: color7
+              data: =@ctx.datasources.static-data
+              layout: area-gradient
+            - animation:
+                direction: bottom-to-top
+              color: color9
+              data: =@ctx.datasources.static-data2
+              layout: area-gradient
+            - animation:
+                direction: bottom-to-top
+              color: color2
+              data: =@ctx.datasources.static-data3
+              layout: area-gradient
+          xAxis:
+            categories:
+              - ""
+              - Prev
+              - Now
+          yAxis:
+            max: 100
+            min: 0
+        type: component.line-chart
+      top:
+        options:
+          title: +12 this week
+          style:
+            isValueHidden: true
+          value: 0.12
+        type: component.trend
+    type: widget.chart
+#END_SNIPPET

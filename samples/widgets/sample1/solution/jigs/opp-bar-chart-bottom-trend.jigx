@@ -1,0 +1,84 @@
+title: New opportunities
+type: jig.default
+icon: button-play
+datasources:
+  static-data-1:
+    options:
+      data:
+        - 10
+        - 25
+        - 17
+        - 10
+    type: datasource.static
+  static-data-2:
+    options:
+      data:
+        - 15
+        - 45
+        - 55
+        - 65
+    type: datasource.static
+children:
+  - options:
+      chart:
+        height: 300
+        isAnimated: true
+      legend:
+        isHidden: false
+      plotOptions:
+        series:
+          pointWidth: 12
+      series:
+        - color: color3
+          data: =@ctx.datasources.static-data-1
+          name: "2021"
+        - color: positive
+          data: =@ctx.datasources.static-data-2
+          name: "2022"
+      xAxis:
+        categories:
+          - Aug
+          - Sep
+          - Oct
+          - Nov
+      yAxis:
+        max: 80
+        min: 0
+        tickAmount: 3
+    type: component.bar-chart
+#START_SNIPPET
+widgets:
+  2x2:
+    options:
+      bottom:
+        options:
+          title: 12 this week
+          style:
+            isAlignRight: true
+            isValueBottom: true
+            isValueHidden: false
+          value: -0.0212
+        type: component.trend
+      chart:
+        options:
+          plotOptions:
+            series:
+              pointWidth: 12
+          series:
+            - color: color3
+              data: =@ctx.datasources.static-data-1
+            - color: positive
+              data: =@ctx.datasources.static-data-2
+          xAxis:
+            categories:
+              - Aug
+              - Sep
+              - Oct
+              - Nov
+          yAxis:
+            max: 80
+            min: 0
+            tickAmount: 3
+        type: component.bar-chart
+    type: widget.chart
+#END_SNIPPET

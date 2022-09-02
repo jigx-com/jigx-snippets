@@ -1,6 +1,6 @@
-title: data-samples
-category: analytics
-referenceId: trynow
+title: Profile
+name: trynow
+category: personal
 widgets:
-  - size: 4x4 # choose size of the widget on the home hub
-    children: control-image-picker
+  - size: 2x2 # choose size of the widget on the home hub
+    jigId: opp-bar-chart-bottom-trend

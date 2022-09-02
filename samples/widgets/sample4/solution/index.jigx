@@ -3,4 +3,4 @@ name: trynow
 category: personal
 widgets:
   - size: 2x2
-    jigId: opp-trend-line
+    jigId: opp-trend
