@@ -1,0 +1,112 @@
+{
+  "snippets": [
+    {
+      "solution_path": "samples/data/sample1/solution",
+      "snippet_files_paths": [
+        "samples/data/sample1/solution/jigs/control-image-picker.jigx"
+      ],
+      "preview_img": "samples/data/sample1/thumbnail.png",
+      "doc_url": "",
+      "category": "data"
+    },
+    {
+      "solution_path": "samples/data/sample2/solution",
+      "snippet_files_paths": [
+        "samples/data/sample2/solution/jigs/control-date-picker.jigx"
+      ],
+      "preview_img": "samples/data/sample2/thumbnail.png",
+      "doc_url": "",
+      "category": "data"
+    },
+    {
+      "solution_path": "samples/data/sample3/solution",
+      "snippet_files_paths": [
+        "samples/data/sample3/solution/jigs/control-list-item.jigx"
+      ],
+      "preview_img": "samples/data/sample3/thumbnail.png",
+      "doc_url": "",
+      "category": "data"
+    },
+    {
+      "solution_path": "samples/ui/sample1/solution",
+      "snippet_files_paths": [
+        "samples/ui/sample1/solution/jigs/control-dropdown.jigx"
+      ],
+      "preview_img": "samples/ui/sample1/thumbnail.png",
+      "doc_url": "",
+      "category": "ui"
+    },
+    {
+      "solution_path": "samples/ui/sample2/solution",
+      "snippet_files_paths": [
+        "samples/ui/sample2/solution/jigs/control-image.jigx"
+      ],
+      "preview_img": "samples/ui/sample2/thumbnail.png",
+      "doc_url": "",
+      "category": "ui"
+    },
+    {
+      "solution_path": "samples/ui/sample3/solution",
+      "snippet_files_paths": [
+        "samples/ui/sample3/solution/jigs/opp-bar-chart-bottom-trend.jigx"
+      ],
+      "preview_img": "samples/ui/sample3/thumbnail.png",
+      "doc_url": "",
+      "category": "ui"
+    },
+    {
+      "solution_path": "samples/widgets/sample1/solution",
+      "snippet_files_paths": [
+        "samples/widgets/sample1/solution/jigs/opp-bar-chart-bottom-trend.jigx"
+      ],
+      "preview_img": "samples/widgets/sample1/thumbnail.png",
+      "doc_url": "",
+      "category": "widgets"
+    },
+    {
+      "solution_path": "samples/widgets/sample2/solution",
+      "snippet_files_paths": [
+        "samples/widgets/sample2/solution/jigs/opp-trend-entity-field.jigx"
+      ],
+      "preview_img": "samples/widgets/sample2/thumbnail.png",
+      "doc_url": "",
+      "category": "widgets"
+    },
+    {
+      "solution_path": "samples/widgets/sample3/solution",
+      "snippet_files_paths": [
+        "samples/widgets/sample3/solution/jigs/opp-trend-line.jigx"
+      ],
+      "preview_img": "samples/widgets/sample3/thumbnail.png",
+      "doc_url": "",
+      "category": "widgets"
+    },
+    {
+      "solution_path": "samples/widgets/sample4/solution",
+      "snippet_files_paths": [
+        "samples/widgets/sample4/solution/jigs/opp-trend.jigx"
+      ],
+      "preview_img": "samples/widgets/sample4/thumbnail.png",
+      "doc_url": "",
+      "category": "widgets"
+    },
+    {
+      "solution_path": "samples/widgets/sample5/solution",
+      "snippet_files_paths": [
+        "samples/widgets/sample5/solution/jigs/todays-patient-plan.jigx"
+      ],
+      "preview_img": "samples/widgets/sample5/thumbnail.png",
+      "doc_url": "",
+      "category": "widgets"
+    },
+    {
+      "solution_path": "samples/widgets/sample6/solution",
+      "snippet_files_paths": [
+        "samples/widgets/sample6/solution/jigs/upcoming-patients.jigx"
+      ],
+      "preview_img": "samples/widgets/sample6/thumbnail.png",
+      "doc_url": "",
+      "category": "widgets"
+    }
+  ]
+}
