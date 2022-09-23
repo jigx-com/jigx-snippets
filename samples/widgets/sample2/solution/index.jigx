@@ -3,4 +3,4 @@ name: trynow
 category: personal
 widgets:
   - size: 2x2 # choose size of the widget on the home hub
-    jigId: opp-trend-entity-field
+    jigId: value-static
