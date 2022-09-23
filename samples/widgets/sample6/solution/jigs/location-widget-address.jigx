@@ -4,7 +4,7 @@ type: jig.default
 children:
   - type: component.location
     options:
-      address: Národní 135/14, 110 00 Praha
+      address: Narodni 135/14, 110 00 Praha
     
   
 #START_SNIPPET
@@ -12,5 +12,5 @@ widgets:
   4x2:
     type: widget.location
     options:
-      address: Národní 135/14, 110 00 Praha
+      address: Narodni 135/14, 110 00 Praha
 #END_SNIPPET
