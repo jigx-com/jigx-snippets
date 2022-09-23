@@ -60,13 +60,13 @@
         "samples/widgets/sample1/solution/jigs/opp-bar-chart-bottom-trend.jigx"
       ],
       "preview_img": "samples/widgets/sample1/thumbnail.png",
-      "doc_url": "",
+      "doc_url": "https://docs.jigx.com/docs/jw-chart",
       "category": "widgets"
     },
     {
       "solution_path": "samples/widgets/sample2/solution",
       "snippet_files_paths": [
-        "samples/widgets/sample2/solution/jigs/opp-trend-entity-field.jigx"
+        "samples/widgets/sample2/solution/jigs/value-static.jigx"
       ],
       "preview_img": "samples/widgets/sample2/thumbnail.png",
       "doc_url": "https://docs.jigx.com/docs/jw-value",
@@ -78,7 +78,7 @@
         "samples/widgets/sample3/solution/jigs/opp-trend-line.jigx"
       ],
       "preview_img": "samples/widgets/sample3/thumbnail.png",
-      "doc_url": "",
+      "doc_url": "https://docs.jigx.com/docs/jw-chart",
       "category": "widgets"
     },
     {
@@ -87,7 +87,7 @@
         "samples/widgets/sample4/solution/jigs/opp-trend.jigx"
       ],
       "preview_img": "samples/widgets/sample4/thumbnail.png",
-      "doc_url": "",
+      "doc_url": "https://docs.jigx.com/docs/jw-chart",
       "category": "widgets"
     },
     {
@@ -96,16 +96,16 @@
         "samples/widgets/sample5/solution/jigs/todays-patient-plan.jigx"
       ],
       "preview_img": "samples/widgets/sample5/thumbnail.png",
-      "doc_url": "",
+      "doc_url": "https://docs.jigx.com/docs/jw-group",
       "category": "widgets"
     },
     {
       "solution_path": "samples/widgets/sample6/solution",
       "snippet_files_paths": [
-        "samples/widgets/sample6/solution/jigs/upcoming-patients.jigx"
+        "samples/widgets/sample6/solution/jigs/location-widget-address.jigx"
       ],
-      "preview_img": "samples/widgets/sample6/thumbnail.png",
-      "doc_url": "",
+      "preview_img": "samples/widgets/sample6/thumbnail.jpg",
+      "doc_url": "https://docs.jigx.com/docs/jw-location",
       "category": "widgets"
     }
   ]

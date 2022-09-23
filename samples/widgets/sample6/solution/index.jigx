@@ -3,4 +3,4 @@ name: trynow
 category: personal
 widgets:
   - size: 4x2
-    jigId: upcoming-patients
+    jigId: location-widget-address
