@@ -1,111 +1,111 @@
 {
   "snippets": [
     {
-      "solution_path": "samples/data/sample1/solution",
-      "snippet_files_paths": [
+      "solutionPath": "samples/data/sample1/solution",
+      "snippetFilesPaths": [
         "samples/data/sample1/solution/jigs/control-image-picker.jigx"
       ],
-      "preview_img": "samples/data/sample1/thumbnail.png",
-      "doc_url": "",
+      "previewImgSrc": "samples/data/sample1/thumbnail.png",
+      "docUrl": "",
       "category": "data"
     },
     {
-      "solution_path": "samples/data/sample2/solution",
-      "snippet_files_paths": [
+      "solutionPath": "samples/data/sample2/solution",
+      "snippetFilesPaths": [
         "samples/data/sample2/solution/jigs/control-date-picker.jigx"
       ],
-      "preview_img": "samples/data/sample2/thumbnail.png",
-      "doc_url": "",
+      "previewImgSrc": "samples/data/sample2/thumbnail.png",
+      "docUrl": "",
       "category": "data"
     },
     {
-      "solution_path": "samples/data/sample3/solution",
-      "snippet_files_paths": [
+      "solutionPath": "samples/data/sample3/solution",
+      "snippetFilesPaths": [
         "samples/data/sample3/solution/jigs/control-list-item.jigx"
       ],
-      "preview_img": "samples/data/sample3/thumbnail.png",
-      "doc_url": "",
+      "previewImgSrc": "samples/data/sample3/thumbnail.png",
+      "docUrl": "",
       "category": "data"
     },
     {
-      "solution_path": "samples/ui/sample1/solution",
-      "snippet_files_paths": [
+      "solutionPath": "samples/ui/sample1/solution",
+      "snippetFilesPaths": [
         "samples/ui/sample1/solution/jigs/control-dropdown.jigx"
       ],
-      "preview_img": "samples/ui/sample1/thumbnail.png",
-      "doc_url": "",
+      "previewImgSrc": "samples/ui/sample1/thumbnail.png",
+      "docUrl": "",
       "category": "ui"
     },
     {
-      "solution_path": "samples/ui/sample2/solution",
-      "snippet_files_paths": [
+      "solutionPath": "samples/ui/sample2/solution",
+      "snippetFilesPaths": [
         "samples/ui/sample2/solution/jigs/control-image.jigx"
       ],
-      "preview_img": "samples/ui/sample2/thumbnail.png",
-      "doc_url": "",
+      "previewImgSrc": "samples/ui/sample2/thumbnail.png",
+      "docUrl": "",
       "category": "ui"
     },
     {
-      "solution_path": "samples/ui/sample3/solution",
-      "snippet_files_paths": [
+      "solutionPath": "samples/ui/sample3/solution",
+      "snippetFilesPaths": [
         "samples/ui/sample3/solution/jigs/opp-bar-chart-bottom-trend.jigx"
       ],
-      "preview_img": "samples/ui/sample3/thumbnail.png",
-      "doc_url": "",
+      "previewImgSrc": "samples/ui/sample3/thumbnail.png",
+      "docUrl": "",
       "category": "ui"
     },
     {
-      "solution_path": "samples/widgets/sample1/solution",
-      "snippet_files_paths": [
+      "solutionPath": "samples/widgets/sample1/solution",
+      "snippetFilesPaths": [
         "samples/widgets/sample1/solution/jigs/opp-bar-chart-bottom-trend.jigx"
       ],
-      "preview_img": "samples/widgets/sample1/thumbnail.png",
-      "doc_url": "https://docs.jigx.com/docs/jw-chart",
+      "previewImgSrc": "samples/widgets/sample1/thumbnail.png",
+      "docUrl": "https://docs.jigx.com/docs/jw-chart",
       "category": "widgets"
     },
     {
-      "solution_path": "samples/widgets/sample2/solution",
-      "snippet_files_paths": [
+      "solutionPath": "samples/widgets/sample2/solution",
+      "snippetFilesPaths": [
         "samples/widgets/sample2/solution/jigs/value-static.jigx"
       ],
-      "preview_img": "samples/widgets/sample2/thumbnail.png",
-      "doc_url": "https://docs.jigx.com/docs/jw-value",
+      "previewImgSrc": "samples/widgets/sample2/thumbnail.png",
+      "docUrl": "https://docs.jigx.com/docs/jw-value",
       "category": "widgets"
     },
     {
-      "solution_path": "samples/widgets/sample3/solution",
-      "snippet_files_paths": [
+      "solutionPath": "samples/widgets/sample3/solution",
+      "snippetFilesPaths": [
         "samples/widgets/sample3/solution/jigs/opp-trend-line.jigx"
       ],
-      "preview_img": "samples/widgets/sample3/thumbnail.png",
-      "doc_url": "https://docs.jigx.com/docs/jw-chart",
+      "previewImgSrc": "samples/widgets/sample3/thumbnail.png",
+      "docUrl": "https://docs.jigx.com/docs/jw-chart",
       "category": "widgets"
     },
     {
-      "solution_path": "samples/widgets/sample4/solution",
-      "snippet_files_paths": [
+      "solutionPath": "samples/widgets/sample4/solution",
+      "snippetFilesPaths": [
         "samples/widgets/sample4/solution/jigs/opp-trend.jigx"
       ],
-      "preview_img": "samples/widgets/sample4/thumbnail.png",
-      "doc_url": "https://docs.jigx.com/docs/jw-chart",
+      "previewImgSrc": "samples/widgets/sample4/thumbnail.png",
+      "docUrl": "https://docs.jigx.com/docs/jw-chart",
       "category": "widgets"
     },
     {
-      "solution_path": "samples/widgets/sample5/solution",
-      "snippet_files_paths": [
+      "solutionPath": "samples/widgets/sample5/solution",
+      "snippetFilesPaths": [
         "samples/widgets/sample5/solution/jigs/todays-patient-plan.jigx"
       ],
-      "preview_img": "samples/widgets/sample5/thumbnail.png",
-      "doc_url": "https://docs.jigx.com/docs/jw-group",
+      "previewImgSrc": "samples/widgets/sample5/thumbnail.png",
+      "docUrl": "https://docs.jigx.com/docs/jw-group",
       "category": "widgets"
     },
     {
-      "solution_path": "samples/widgets/sample6/solution",
-      "snippet_files_paths": [
+      "solutionPath": "samples/widgets/sample6/solution",
+      "snippetFilesPaths": [
         "samples/widgets/sample6/solution/jigs/location-widget-address.jigx"
       ],
-      "preview_img": "samples/widgets/sample6/thumbnail.jpg",
-      "doc_url": "https://docs.jigx.com/docs/jw-location",
+      "previewImgSrc": "samples/widgets/sample6/thumbnail.jpg",
+      "docUrl": "https://docs.jigx.com/docs/jw-location",
       "category": "widgets"
     }
   ]
