@@ -1,0 +1,109 @@
+{
+  "snippets": [
+    {
+      "name": "Calendar 1",
+      "description": "This is a calendar's description",
+      "filePath": "",
+      "imagePath": "",
+      "type": "jig",
+      "category": "Calendar"
+    },
+    {
+      "name": "Calendar 2",
+      "description": "Another description",
+      "filePath": "",
+      "imagePath": "",
+      "type": "jig",
+      "category": "Calendar"
+    },
+    {
+      "name": "Calendar 3",
+      "description": "Third description",
+      "filePath": "",
+      "imagePath": "",
+      "type": "jig",
+      "category": "Calendar"
+    },
+    {
+      "name": "Composite 1",
+      "description": "Composite's description",
+      "type": "jig",
+      "filePath": "",
+      "imagePath": "",
+      "category": "Composite"
+    },
+    {
+      "name": "Composite 2",
+      "description": "Beautiful description",
+      "type": "jig",
+      "filePath": "",
+      "imagePath": "",
+      "category": "Composite"
+    },
+
+    {
+      "name": "Default 1",
+      "description": "This is a Default's description",
+      "type": "jig",
+      "filePath": "",
+      "imagePath": "",
+      "category": "Default"
+    },
+    {
+      "name": "Default 2",
+      "description": "Another description",
+      "type": "jig",
+      "filePath": "",
+      "imagePath": "",
+      "category": "Default"
+    },
+    {
+      "name": "Default 3",
+      "description": "Third description",
+      "type": "jig",
+      "filePath": "",
+      "imagePath": "",
+      "category": "Default"
+    },
+    {
+      "name": "Document 1",
+      "description": "Document description",
+      "type": "jig",
+      "filePath": "",
+      "imagePath": "",
+      "category": "Document"
+    },
+    {
+      "name": "List 1",
+      "description": "No description at all",
+      "type": "jig",
+      "filePath": "",
+      "imagePath": "",
+      "category": "List"
+    },
+    {
+      "name": "List 2",
+      "description": "Absolutely hilarious description",
+      "type": "jig",
+      "filePath": "",
+      "imagePath": "",
+      "category": "List"
+    },
+    {
+      "name": "List 3",
+      "description": "Ipsum lorem description",
+      "type": "jig",
+      "filePath": "",
+      "imagePath": "",
+      "category": "List"
+    },
+    {
+      "name": "List 4",
+      "description": "Lerem ipsum's description",
+      "type": "jig",
+      "filePath": "",
+      "imagePath": "",
+      "category": "List"
+    }
+  ]
+}
