@@ -3,24 +3,24 @@
     {
       "name": "Calendar 1",
       "description": "This is a calendar's description",
-      "filePath": "",
-      "imagePath": "",
+      "filePath": "samples/data/sample1/solution/jigs/control-image-picker.jigx",
+      "previewImgSrc": "samples/data/sample1/thumbnail.png",
       "type": "jig",
       "category": "Calendar"
     },
     {
       "name": "Calendar 2",
       "description": "Another description",
-      "filePath": "",
-      "imagePath": "",
+      "filePath": "samples/data/sample2/solution/jigs/control-date-picker.jigx",
+      "previewImgSrc": "samples/data/sample2/thumbnail.png",
       "type": "jig",
       "category": "Calendar"
     },
     {
       "name": "Calendar 3",
       "description": "Third description",
-      "filePath": "",
-      "imagePath": "",
+      "filePath": "samples/data/sample3/solution/jigs/control-list-item.jigx",
+      "previewImgSrc": "samples/data/sample3/thumbnail.png",
       "type": "jig",
       "category": "Calendar"
     },
@@ -28,16 +28,16 @@
       "name": "Composite 1",
       "description": "Composite's description",
       "type": "jig",
-      "filePath": "",
-      "imagePath": "",
+      "filePath": "samples/ui/sample1/solution/jigs/control-dropdown.jigx",
+      "previewImgSrc": "samples/ui/sample1/thumbnail.png",
       "category": "Composite"
     },
     {
       "name": "Composite 2",
       "description": "Beautiful description",
       "type": "jig",
-      "filePath": "",
-      "imagePath": "",
+      "filePath": "samples/ui/sample2/solution/jigs/control-image.jigx",
+      "previewImgSrc": "samples/ui/sample2/thumbnail.png",
       "category": "Composite"
     },
 
@@ -45,64 +45,56 @@
       "name": "Default 1",
       "description": "This is a Default's description",
       "type": "jig",
-      "filePath": "",
-      "imagePath": "",
+      "filePath": "samples/ui/sample3/solution/jigs/opp-bar-chart-bottom-trend.jigx",
+      "previewImgSrc": "samples/ui/sample3/thumbnail.png",
       "category": "Default"
     },
     {
       "name": "Default 2",
       "description": "Another description",
       "type": "jig",
-      "filePath": "",
-      "imagePath": "",
+      "filePath": "samples/widgets/sample1/solution/jigs/opp-bar-chart-bottom-trend.jigx",
+      "previewImgSrc": "samples/widgets/sample1/thumbnail.png",
       "category": "Default"
     },
     {
       "name": "Default 3",
       "description": "Third description",
       "type": "jig",
-      "filePath": "",
-      "imagePath": "",
+      "filePath": "samples/widgets/sample2/solution/jigs/value-static.jigx",
+      "previewImgSrc": "samples/widgets/sample2/thumbnail.png",
       "category": "Default"
     },
     {
       "name": "Document 1",
       "description": "Document description",
       "type": "jig",
-      "filePath": "",
-      "imagePath": "",
+      "filePath": "samples/widgets/sample3/solution/jigs/opp-trend-line.jigx",
+      "previewImgSrc": "samples/widgets/sample3/thumbnail.png",
       "category": "Document"
     },
     {
       "name": "List 1",
       "description": "No description at all",
       "type": "jig",
-      "filePath": "",
-      "imagePath": "",
+      "filePath": "samples/widgets/sample4/solution/jigs/opp-trend.jigx",
+      "previewImgSrc": "samples/widgets/sample4/thumbnail.png",
       "category": "List"
     },
     {
       "name": "List 2",
       "description": "Absolutely hilarious description",
       "type": "jig",
-      "filePath": "",
-      "imagePath": "",
+      "filePath": "samples/widgets/sample5/solution/jigs/todays-patient-plan.jigx",
+      "previewImgSrc": "samples/widgets/sample5/thumbnail.png",
       "category": "List"
     },
     {
       "name": "List 3",
       "description": "Ipsum lorem description",
       "type": "jig",
-      "filePath": "",
-      "imagePath": "",
-      "category": "List"
-    },
-    {
-      "name": "List 4",
-      "description": "Lerem ipsum's description",
-      "type": "jig",
-      "filePath": "",
-      "imagePath": "",
+      "filePath": "samples/widgets/sample6/solution/jigs/location-widget-address.jigx",
+      "previewImgSrc": "samples/widgets/sample6/thumbnail.jpg",
       "category": "List"
     }
   ]
