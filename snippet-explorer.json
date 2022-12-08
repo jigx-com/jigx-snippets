@@ -242,7 +242,7 @@
     },
     {
       "name": "Avatar 1",
-      "filePath": "jigx-templates/components/avatar/jig-component-avatar-1.yaml",
+      "filePath": "jigx-templates/components/avatar/jig-component-avatar-1.json",
       "previewImgSrc": "jigx-templates/components/avatar/jig-component-avatar-1.jpeg",
       "jigLibraryRef": "jc-avatar"
     }
