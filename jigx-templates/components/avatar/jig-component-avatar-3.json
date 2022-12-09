@@ -2,8 +2,8 @@
   {
     "options": {
       "align": "center",
-      "size": "large",
-      "text": "L"
+      "size": "regular",
+      "text": "M"
     },
     "type": "component.avatar"
   }

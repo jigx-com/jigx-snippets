@@ -241,9 +241,39 @@
       "jigLibraryRef": "jig-document"
     },
     {
-      "name": "Avatar 1",
+      "name": "Avatar Large Letter",
       "filePath": "jigx-templates/components/avatar/jig-component-avatar-1.json",
-      "previewImgSrc": "jigx-templates/components/avatar/jig-component-avatar-1.jpeg",
+      "previewImgSrc": "jigx-templates/components/avatar/jig-component-avatar-1.jpg",
+      "jigLibraryRef": "jc-avatar"
+    },
+    {
+      "name": "Avatar Large Image",
+      "filePath": "jigx-templates/components/avatar/jig-component-avatar-2.json",
+      "previewImgSrc": "jigx-templates/components/avatar/jig-component-avatar-2.jpg",
+      "jigLibraryRef": "jc-avatar"
+    },
+    {
+      "name": "Avatar Medium Letter",
+      "filePath": "jigx-templates/components/avatar/jig-component-avatar-3.json",
+      "previewImgSrc": "jigx-templates/components/avatar/jig-component-avatar-3.jpg",
+      "jigLibraryRef": "jc-avatar"
+    },
+    {
+      "name": "Avatar Medium Image",
+      "filePath": "jigx-templates/components/avatar/jig-component-avatar-4.json",
+      "previewImgSrc": "jigx-templates/components/avatar/jig-component-avatar-4.jpg",
+      "jigLibraryRef": "jc-avatar"
+    },
+    {
+      "name": "Avatar Small Letter",
+      "filePath": "jigx-templates/components/avatar/jig-component-avatar-5.json",
+      "previewImgSrc": "jigx-templates/components/avatar/jig-component-avatar-5.jpg",
+      "jigLibraryRef": "jc-avatar"
+    },
+    {
+      "name": "Avatar Small Image",
+      "filePath": "jigx-templates/components/avatar/jig-component-avatar-6.json",
+      "previewImgSrc": "jigx-templates/components/avatar/jig-component-avatar-6.jpg",
       "jigLibraryRef": "jc-avatar"
     }
   ]
