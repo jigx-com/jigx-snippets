@@ -1,10 +1,10 @@
 [
   {
+    "type": "component.avatar",
     "options": {
       "align": "center",
       "size": "large",
       "text": "L"
-    },
-    "type": "component.avatar"
+    }
   }
 ]
