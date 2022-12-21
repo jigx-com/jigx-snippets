@@ -275,6 +275,28 @@
       "filePath": "jigx-templates/components/avatar/jig-component-avatar-6.json",
       "previewImgSrc": "jigx-templates/components/avatar/jig-component-avatar-6.jpg",
       "jigLibraryRef": "jc-avatar"
+    },
+
+    {
+      "name": "Revenues and Expenses",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-1/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-1/preview.jpeg",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/bar-chart-1/datasource.json"
+    },
+    {
+      "name": "Quarterly earnings",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-2/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-2/preview.jpeg",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/bar-chart-2/datasource.json"
+    },
+    {
+      "name": "Population of USA",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-3/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-3/preview.jpeg",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/bar-chart-3/datasource.json"
     }
   ]
 }
