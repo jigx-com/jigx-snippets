@@ -2,241 +2,241 @@
   "snippets": [
     {
       "name": "Calendar jig",
-      "filePath": "jigx-templates/jigs/calendar/template-calendar-1.jigx",
+      "filePath": "jigx-templates/jigs/calendar/template-calendar-1.json",
       "previewImgSrc": "jigx-templates/jigs/calendar/template-calendar-1.jpeg",
       "jigLibraryRef": "jig-calendar"
     },
     {
       "name": "Default jig 1",
-      "filePath": "jigx-templates/jigs/default/template-default-1.jigx",
+      "filePath": "jigx-templates/jigs/default/template-default-1.json",
       "previewImgSrc": "jigx-templates/jigs/default/template-default-1.jpeg",
       "jigLibraryRef": "jig-default"
     },
     {
       "name": "Default jig 2",
-      "filePath": "jigx-templates/jigs/default/template-default-2.jigx",
+      "filePath": "jigx-templates/jigs/default/template-default-2.json",
       "previewImgSrc": "jigx-templates/jigs/default/template-default-2.jpeg",
       "jigLibraryRef": "jig-default"
     },
     {
       "name": "Default jig 3",
-      "filePath": "jigx-templates/jigs/default/template-default-3.jigx",
+      "filePath": "jigx-templates/jigs/default/template-default-3.json",
       "previewImgSrc": "jigx-templates/jigs/default/template-default-3.jpeg",
       "jigLibraryRef": "jig-default"
     },
     {
       "name": "Default jig 4",
-      "filePath": "jigx-templates/jigs/default/template-default-4.jigx",
+      "filePath": "jigx-templates/jigs/default/template-default-4.json",
       "previewImgSrc": "jigx-templates/jigs/default/template-default-4.jpeg",
       "jigLibraryRef": "jig-default"
     },
     {
       "name": "Default jig 5",
-      "filePath": "jigx-templates/jigs/default/template-default-5.jigx",
+      "filePath": "jigx-templates/jigs/default/template-default-5.json",
       "previewImgSrc": "jigx-templates/jigs/default/template-default-5.jpeg",
       "jigLibraryRef": "jig-default"
     },
     {
       "name": "Default jig 6",
-      "filePath": "jigx-templates/jigs/default/template-default-6.jigx",
+      "filePath": "jigx-templates/jigs/default/template-default-6.json",
       "previewImgSrc": "jigx-templates/jigs/default/template-default-6.jpeg",
       "jigLibraryRef": "jig-default"
     },
     {
       "name": "Default jig 7",
-      "filePath": "jigx-templates/jigs/default/template-default-7.jigx",
+      "filePath": "jigx-templates/jigs/default/template-default-7.json",
       "previewImgSrc": "jigx-templates/jigs/default/template-default-7.jpeg",
       "jigLibraryRef": "jig-default"
     },
     {
       "name": "Default jig 8",
-      "filePath": "jigx-templates/jigs/default/template-default-8.jigx",
+      "filePath": "jigx-templates/jigs/default/template-default-8.json",
       "previewImgSrc": "jigx-templates/jigs/default/template-default-8.jpeg",
       "jigLibraryRef": "jig-default"
     },
     {
       "name": "Default jig 9",
-      "filePath": "jigx-templates/jigs/default/template-default-9.jigx",
+      "filePath": "jigx-templates/jigs/default/template-default-9.json",
       "previewImgSrc": "jigx-templates/jigs/default/template-default-9.jpeg",
       "jigLibraryRef": "jig-default"
     },
     {
       "name": "Default jig 10",
-      "filePath": "jigx-templates/jigs/default/template-default-10.jigx",
+      "filePath": "jigx-templates/jigs/default/template-default-10.json",
       "previewImgSrc": "jigx-templates/jigs/default/template-default-10.jpeg",
       "jigLibraryRef": "jig-default"
     },
     {
       "name": "Default jig 11",
-      "filePath": "jigx-templates/jigs/default/template-default-11.jigx",
+      "filePath": "jigx-templates/jigs/default/template-default-11.json",
       "previewImgSrc": "jigx-templates/jigs/default/template-default-11.jpeg",
       "jigLibraryRef": "jig-default"
     },
     {
       "name": "Default jig 12",
-      "filePath": "jigx-templates/jigs/default/template-default-12.jigx",
+      "filePath": "jigx-templates/jigs/default/template-default-12.json",
       "previewImgSrc": "jigx-templates/jigs/default/template-default-12.jpeg",
       "jigLibraryRef": "jig-default"
     },
     {
       "name": "List jig 1",
-      "filePath": "jigx-templates/jigs/list/template-list-1.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-1.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-1.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 2",
-      "filePath": "jigx-templates/jigs/list/template-list-2.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-2.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-2.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 3",
-      "filePath": "jigx-templates/jigs/list/template-list-3.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-3.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-3.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 4",
-      "filePath": "jigx-templates/jigs/list/template-list-4.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-4.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-4.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 5",
-      "filePath": "jigx-templates/jigs/list/template-list-5.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-5.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-5.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 6",
-      "filePath": "jigx-templates/jigs/list/template-list-6.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-6.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-6.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 7",
-      "filePath": "jigx-templates/jigs/list/template-list-7.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-7.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-7.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 8",
-      "filePath": "jigx-templates/jigs/list/template-list-8.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-8.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-8.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 9",
-      "filePath": "jigx-templates/jigs/list/template-list-9.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-9.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-9.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 10",
-      "filePath": "jigx-templates/jigs/list/template-list-10.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-10.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-10.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 11",
-      "filePath": "jigx-templates/jigs/list/template-list-11.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-11.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-11.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 12",
-      "filePath": "jigx-templates/jigs/list/template-list-12.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-12.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-12.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 13",
-      "filePath": "jigx-templates/jigs/list/template-list-13.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-13.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-13.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 14",
-      "filePath": "jigx-templates/jigs/list/template-list-14.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-14.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-14.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 15",
-      "filePath": "jigx-templates/jigs/list/template-list-15.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-15.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-15.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 16",
-      "filePath": "jigx-templates/jigs/list/template-list-16.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-16.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-16.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 17",
-      "filePath": "jigx-templates/jigs/list/template-list-17.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-17.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-17.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 18",
-      "filePath": "jigx-templates/jigs/list/template-list-18.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-18.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-18.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 19",
-      "filePath": "jigx-templates/jigs/list/template-list-19.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-19.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-19.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 20",
-      "filePath": "jigx-templates/jigs/list/template-list-20.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-20.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-20.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 21",
-      "filePath": "jigx-templates/jigs/list/template-list-21.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-21.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-21.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 22",
-      "filePath": "jigx-templates/jigs/list/template-list-22.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-22.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-22.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 23",
-      "filePath": "jigx-templates/jigs/list/template-list-23.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-23.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-23.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "List jig 24",
-      "filePath": "jigx-templates/jigs/list/template-list-24.jigx",
+      "filePath": "jigx-templates/jigs/list/template-list-24.json",
       "previewImgSrc": "jigx-templates/jigs/list/template-list-24.jpeg",
       "jigLibraryRef": "jig-list"
     },
     {
       "name": "Composite jig",
-      "filePath": "jigx-templates/jigs/composite/template-composite-1.jigx",
+      "filePath": "jigx-templates/jigs/composite/template-composite-1.json",
       "previewImgSrc": "jigx-templates/jigs/composite/template-composite-1.jpeg",
       "jigLibraryRef": "jig-composite"
     },
     {
       "name": "Document jig 1",
-      "filePath": "jigx-templates/jigs/document/template-document-1.jigx",
+      "filePath": "jigx-templates/jigs/document/template-document-1.json",
       "previewImgSrc": "jigx-templates/jigs/document/template-document-1.jpeg",
       "jigLibraryRef": "jig-document"
     },
     {
       "name": "Composite jig 2",
-      "filePath": "jigx-templates/jigs/document/template-document-2.jigx",
+      "filePath": "jigx-templates/jigs/document/template-document-2.json",
       "previewImgSrc": "jigx-templates/jigs/document/template-document-2.jpeg",
       "jigLibraryRef": "jig-document"
     },

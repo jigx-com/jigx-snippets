@@ -1,6 +1,0 @@
-title: Lead Overview
-type: jig.composite
-children:
-  - jigId: template-default-7
-  - jigId: template-list-2
-

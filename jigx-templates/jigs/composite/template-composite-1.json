@@ -1,0 +1,12 @@
+{
+  "title": "Lead Overview",
+  "type": "jig.composite",
+  "children": [
+    {
+      "jigId": "${1:jigId}"
+    },
+    {
+      "jigId": "${2:jigId}"
+    }
+  ]
+}
