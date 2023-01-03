@@ -1,0 +1,15 @@
+{
+  "title": "Section",
+  "type": "jig.composite",
+  "children": [
+    {
+      "jigId": "comp-entity-section-el-1"
+    },
+    {
+      "jigId": "comp-entity-section-el-2"
+    },
+    {
+      "jigId": "comp-entity-section-el-3"
+    }
+  ]
+}

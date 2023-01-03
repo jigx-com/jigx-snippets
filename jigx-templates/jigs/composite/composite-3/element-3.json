@@ -1,0 +1,29 @@
+{
+  "title": "Section with Entity field",
+  "type": "jig.default",
+  "children": [
+    {
+      "instanceId": "entity",
+      "options": {
+        "children": [
+          {
+            "options": {
+              "title": "Section name",
+              "children": [
+                {
+                  "options": {
+                    "label": "Label",
+                    "value": "Value"
+                  },
+                  "type": "component.entity-field"
+                }
+              ]
+            },
+            "type": "component.section"
+          }
+        ]
+      },
+      "type": "component.entity"
+    }
+  ]
+}

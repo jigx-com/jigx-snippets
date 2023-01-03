@@ -1,0 +1,12 @@
+{
+  "title": "Field Row",
+  "type": "jig.composite",
+  "children": [
+    {
+      "jigId": "comp-entity-field-row-el-1"
+    },
+    {
+      "jigId": "comp-entity-field-row-el-2"
+    }
+  ]
+}
