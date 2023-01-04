@@ -239,42 +239,6 @@
       ]
     },
     {
-      "name": "Composite jig field rows with 2 and 3 Entity Fields",
-      "filePath": "jigx-templates/jigs/composite/composite-2/template.json",
-      "previewImgSrc": "jigx-templates/jigs/composite/composite-2/preview.jpeg",
-      "jigLibraryRef": "jig-composite",
-      "jigFiles": [
-        {
-          "name": "comp-entity-field-row-el-1",
-          "path": "jigx-templates/jigs/composite/composite-2/element-1.json"
-        },
-        {
-          "name": "comp-entity-field-row-el-2",
-          "path": "jigx-templates/jigs/composite/composite-2/element-2.json"
-        }
-      ]
-    },
-    {
-      "name": "Composite jig sections with entity fields",
-      "filePath": "jigx-templates/jigs/composite/composite-3/template.json",
-      "previewImgSrc": "jigx-templates/jigs/composite/composite-3/preview.jpeg",
-      "jigLibraryRef": "jig-composite",
-      "jigFiles": [
-        {
-          "name": "comp-entity-section-el-1",
-          "path": "jigx-templates/jigs/composite/composite-3/element-1.json"
-        },
-        {
-          "name": "comp-entity-section-el-2",
-          "path": "jigx-templates/jigs/composite/composite-3/element-2.json"
-        },
-        {
-          "name": "comp-entity-section-el-3",
-          "path": "jigx-templates/jigs/composite/composite-3/element-3.json"
-        }
-      ]
-    },
-    {
       "name": "Document jig 1",
       "filePath": "jigx-templates/jigs/document/template-document-1.json",
       "previewImgSrc": "jigx-templates/jigs/document/template-document-1.jpeg",
@@ -506,6 +470,37 @@
     },
 
     {
+      "name": "Field row with 2 Entity fields",
+      "filePath": "jigx-templates/components/entity/entity-7/template.json",
+      "previewImgSrc": "jigx-templates/components/entity/entity-7/preview.png",
+      "jigLibraryRef": "jc-entity"
+    },
+    {
+      "name": "Field row with 3 Entity fields",
+      "filePath": "jigx-templates/components/entity/entity-8/template.json",
+      "previewImgSrc": "jigx-templates/components/entity/entity-8/preview.png",
+      "jigLibraryRef": "jc-entity"
+    },
+    {
+      "name": "Section - Field row & 2 Entity fields",
+      "filePath": "jigx-templates/components/entity/entity-9/template.json",
+      "previewImgSrc": "jigx-templates/components/entity/entity-9/preview.png",
+      "jigLibraryRef": "jc-entity"
+    },
+    {
+      "name": "Section - Field row & 3 Entity fields",
+      "filePath": "jigx-templates/components/entity/entity-10/template.json",
+      "previewImgSrc": "jigx-templates/components/entity/entity-10/preview.png",
+      "jigLibraryRef": "jc-entity"
+    },
+    {
+      "name": "Section with Entity field",
+      "filePath": "jigx-templates/components/entity/entity-11/template.json",
+      "previewImgSrc": "jigx-templates/components/entity/entity-11/preview.png",
+      "jigLibraryRef": "jc-entity"
+    },
+
+    {
       "name": "Expander with titles header and Arch chart component",
       "filePath": "jigx-templates/components/expander/expander-1/template.json",
       "previewImgSrc": "jigx-templates/components/expander/expander-1/preview.png",
@@ -531,14 +526,12 @@
       "previewImgSrc": "jigx-templates/components/expander/expander-4/preview.png",
       "jigLibraryRef": "jc-expander"
     },
-
     {
       "name": "Expander with titles header and Image component",
       "filePath": "jigx-templates/components/expander/expander-5/template.json",
       "previewImgSrc": "jigx-templates/components/expander/expander-5/preview.png",
       "jigLibraryRef": "jc-expander"
     },
-
     {
       "name": "Expander with titles header and Interactive image component",
       "filePath": "jigx-templates/components/expander/expander-6/template.json",
