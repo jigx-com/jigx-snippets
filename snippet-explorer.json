@@ -344,6 +344,130 @@
       "jigLibraryRef": "jc-bar-chart",
       "datasource": "jigx-templates/components/bar-chart/bar-chart-3/datasource.json"
     },
+
+    {
+      "name": "Default height bar-chart",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-4/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-4/preview.png",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/shared/datasource.json"
+    },
+    {
+      "name": "Height 300 bar-chart",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-5/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-5/preview.png",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/shared/datasource.json"
+    },
+    {
+      "name": "Custom settings width bar-chart",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-6/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-6/preview.png",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/shared/datasource.json"
+    },
+
+    {
+      "name": "Bar-chart with legend",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-7/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-7/preview.png",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/shared/datasource.json"
+    },
+    {
+      "name": "Bar-chart with custom name of series",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-8/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-8/preview.png",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/shared/datasource.json"
+    },
+    {
+      "name": "Bar-chart without legend",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-9/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-9/preview.png",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/shared/datasource.json"
+    },
+    {
+      "name": "Bar-chart without legend by default",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-10/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-10/preview.png",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/shared/datasource.json"
+    },
+
+    {
+      "name": "Bar-chart Max and min",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-11/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-11/preview.png",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/shared/datasource-2.json"
+    },
+    {
+      "name": "Bar-chart hidden axis",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-12/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-12/preview.png",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/shared/datasource-2.json"
+    },
+    {
+      "name": "Bar-chart currency number style",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-13/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-13/preview.png",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/shared/datasource-2.json"
+    },
+    {
+      "name": "Bar-chart currency number style compact notation",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-14/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-14/preview.png",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/shared/datasource-2.json"
+    },
+    {
+      "name": "Bar-chart Tick amount",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-15/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-15/preview.png",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/shared/datasource-2.json"
+    },
+
+    {
+      "name": "Single series bar chart",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-16/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-16/preview.png",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/bar-chart-16/datasource.json"
+    },
+    {
+      "name": "Multiple series bar chart",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-17/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-17/preview.png",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/bar-chart-17/datasource.json"
+    },
+    {
+      "name": "Bar-chart with custom color of series",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-18/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-18/preview.png",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/bar-chart-18/datasource.json"
+    },
+    {
+      "name": "Bar-chart with custom name of series",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-19/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-19/preview.png",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/bar-chart-19/datasource.json"
+    },
+    {
+      "name": "Bar-chart with enabled data labels",
+      "filePath": "jigx-templates/components/bar-chart/bar-chart-20/template.json",
+      "previewImgSrc": "jigx-templates/components/bar-chart/bar-chart-20/preview.png",
+      "jigLibraryRef": "jc-bar-chart",
+      "datasource": "jigx-templates/components/bar-chart/bar-chart-20/datasource.json"
+    },
+
     {
       "name": "With Entity Field, Sections and Field Row",
       "filePath": "jigx-templates/components/entity/entity-1/template.json",
