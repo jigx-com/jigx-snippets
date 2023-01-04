@@ -504,6 +504,7 @@
       "previewImgSrc": "jigx-templates/components/entity/entity-6/preview.png",
       "jigLibraryRef": "jc-entity"
     },
+
     {
       "name": "Expander with titles header and Arch chart component",
       "filePath": "jigx-templates/components/expander/expander-1/template.json",
@@ -541,7 +542,7 @@
     {
       "name": "Expander with titles header and Interactive image component",
       "filePath": "jigx-templates/components/expander/expander-6/template.json",
-      "previewImgSrc": "igx-templates/components/expander/expander-6/preview.png",
+      "previewImgSrc": "jigx-templates/components/expander/expander-6/preview.png",
       "datasource": "jigx-templates/components/expander/expander-6/datasource.json",
       "jigLibraryRef": "jc-expander"
     },
