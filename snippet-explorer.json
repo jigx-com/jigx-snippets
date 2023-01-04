@@ -464,8 +464,94 @@
     },
     {
       "name": "Expander with titles header and Web view component",
-      "filePath": "jigx-templates/components/expander/expander-113/template.json",
+      "filePath": "jigx-templates/components/expander/expander-13/template.json",
       "previewImgSrc": "jigx-templates/components/expander/expander-13/preview.jpeg",
+      "jigLibraryRef": "jc-expander"
+    },
+
+    {
+      "name": "Expander with stage header and Arch chart component",
+      "filePath": "jigx-templates/components/expander/expander-14/template.json",
+      "previewImgSrc": "jigx-templates/components/expander/expander-14/preview.jpeg",
+      "datasource": "jigx-templates/components/expander/expander-14/datasource.json",
+      "jigLibraryRef": "jc-expander"
+    },
+    {
+      "name": "Expander with stage header and Avatar component",
+      "filePath": "jigx-templates/components/expander/expander-15/template.json",
+      "previewImgSrc": "jigx-templates/components/expander/expander-15/preview.jpeg",
+      "jigLibraryRef": "jc-expander"
+    },
+    {
+      "name": "Expander with stage header and Bar chart component",
+      "filePath": "jigx-templates/components/expander/expander-16/template.json",
+      "previewImgSrc": "jigx-templates/components/expander/expander-16/preview.jpeg",
+      "datasource": "jigx-templates/components/expander/expander-16/datasource.json",
+      "jigLibraryRef": "jc-expander"
+    },
+    {
+      "name": "Expander with stage header and Entity field component",
+      "filePath": "jigx-templates/components/expander/expander-17/template.json",
+      "previewImgSrc": "jigx-templates/components/expander/expander-17/preview.jpeg",
+      "jigLibraryRef": "jc-expander"
+    },
+    {
+      "name": "Expander with stage header and Image component",
+      "filePath": "jigx-templates/components/expander/expander-18/template.json",
+      "previewImgSrc": "jigx-templates/components/expander/expander-18/preview.jpeg",
+      "jigLibraryRef": "jc-expander"
+    },
+    {
+      "name": "Expander with stage header and Interactive image component",
+      "filePath": "jigx-templates/components/expander/expander-19/template.json",
+      "previewImgSrc": "jigx-templates/components/expander/expander-19/preview.jpeg",
+      "datasource": "jigx-templates/components/expander/expander-19/datasource.json",
+      "jigLibraryRef": "jc-expander"
+    },
+    {
+      "name": "Expander with stage header and Line chart component",
+      "filePath": "jigx-templates/components/expander/expander-20/template.json",
+      "previewImgSrc": "jigx-templates/components/expander/expander-20/preview.jpeg",
+      "datasource": "jigx-templates/components/expander/expander-20/datasource.json",
+      "jigLibraryRef": "jc-expander"
+    },
+    {
+      "name": "Expander with stage header and List item component",
+      "filePath": "jigx-templates/components/expander/expander-21/template.json",
+      "previewImgSrc": "jigx-templates/components/expander/expander-21/preview.jpeg",
+      "datasource": "jigx-templates/components/expander/expander-21/datasource.json",
+      "jigLibraryRef": "jc-expander"
+    },
+    {
+      "name": "Expander with stage header and Location component",
+      "filePath": "jigx-templates/components/expander/expander-22/template.json",
+      "previewImgSrc": "jigx-templates/components/expander/expander-22/preview.jpeg",
+      "jigLibraryRef": "jc-expander"
+    },
+    {
+      "name": "Expander with stage header and Pie chart component",
+      "filePath": "jigx-templates/components/expander/expander-23/template.json",
+      "previewImgSrc": "jigx-templates/components/expander/expander-23/preview.jpeg",
+      "datasource": "jigx-templates/components/expander/expander-23/datasource.json",
+      "jigLibraryRef": "jc-expander"
+    },
+    {
+      "name": "Expander with stage header and Stepper component",
+      "filePath": "jigx-templates/components/expander/expander-24/template.json",
+      "previewImgSrc": "jigx-templates/components/expander/expander-24/preview.jpeg",
+      "datasource": "jigx-templates/components/expander/expander-24/datasource.json",
+      "jigLibraryRef": "jc-expander"
+    },
+    {
+      "name": "Expander with stage header and Video player component",
+      "filePath": "jigx-templates/components/expander/expander-25/template.json",
+      "previewImgSrc": "jigx-templates/components/expander/expander-25/preview.jpeg",
+      "jigLibraryRef": "jc-expander"
+    },
+    {
+      "name": "Expander with stage header and Web view component",
+      "filePath": "jigx-templates/components/expander/expander-26/template.json",
+      "previewImgSrc": "jigx-templates/components/expander/expander-26/preview.jpeg",
       "jigLibraryRef": "jc-expander"
     }
   ]
