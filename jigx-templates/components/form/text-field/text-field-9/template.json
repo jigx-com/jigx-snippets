@@ -1,0 +1,18 @@
+{
+  "instanceId": "form",
+  "options": {
+    "children": [
+      {
+        "instanceId": "text-field-9",
+        "options": {
+          "helperText": "Ignored",
+          "isIgnored": true,
+          "isRequired": false,
+          "label": "Label 9"
+        },
+        "type": "component.text-field"
+      }
+    ]
+  },
+  "type": "component.form"
+}

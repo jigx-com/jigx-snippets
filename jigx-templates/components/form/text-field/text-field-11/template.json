@@ -1,0 +1,18 @@
+{
+  "instanceId": "form",
+  "options": {
+    "children": [
+      {
+        "instanceId": "text-field-11",
+        "options": {
+          "helperText": "With hidden optional label",
+          "isOptionalLabelHidden": true,
+          "isRequired": false,
+          "label": "Label 11"
+        },
+        "type": "component.text-field"
+      }
+    ]
+  },
+  "type": "component.form"
+}

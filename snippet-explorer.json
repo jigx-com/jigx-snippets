@@ -998,20 +998,88 @@
 
     {
       "name": "Form sections",
-      "filePath": "jigx-templates/components/form/form-12/template.json",
-      "previewImgSrc": "jigx-templates/components/form/form-12/preview.png",
+      "filePath": "jigx-templates/components/form/sections/template.json",
+      "previewImgSrc": "jigx-templates/components/form/sections/preview.png",
       "jigLibraryRef": "jc-form"
     },
+
     {
       "name": "Form signature field",
-      "filePath": "jigx-templates/components/form/form-13/template.json",
-      "previewImgSrc": "jigx-templates/components/form/form-13/preview.png",
+      "filePath": "jigx-templates/components/form/signature-field/template.json",
+      "previewImgSrc": "jigx-templates/components/form/signature-field/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+
+    {
+      "name": "Form text field with auto capitalize characters",
+      "filePath": "jigx-templates/components/form/text-field/text-field-1/template.json",
+      "previewImgSrc": "jigx-templates/components/form/text-field/text-field-1/preview.png",
       "jigLibraryRef": "jc-form"
     },
     {
-      "name": "Form text field",
-      "filePath": "jigx-templates/components/form/form-14/template.json",
-      "previewImgSrc": "jigx-templates/components/form/form-14/preview.png",
+      "name": "Form text field with color",
+      "filePath": "jigx-templates/components/form/text-field/text-field-2/template.json",
+      "previewImgSrc": "jigx-templates/components/form/text-field/text-field-2/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form text field with error description",
+      "filePath": "jigx-templates/components/form/text-field/text-field-3/template.json",
+      "previewImgSrc": "jigx-templates/components/form/text-field/text-field-3/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form text field with format currency",
+      "filePath": "jigx-templates/components/form/text-field/text-field-4/template.json",
+      "previewImgSrc": "jigx-templates/components/form/text-field/text-field-4/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form text field with icon",
+      "filePath": "jigx-templates/components/form/text-field/text-field-5/template.json",
+      "previewImgSrc": "jigx-templates/components/form/text-field/text-field-5/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form text field with initial value",
+      "filePath": "jigx-templates/components/form/text-field/text-field-6/template.json",
+      "previewImgSrc": "jigx-templates/components/form/text-field/text-field-6/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form text field with auto correct",
+      "filePath": "jigx-templates/components/form/text-field/text-field-7/template.json",
+      "previewImgSrc": "jigx-templates/components/form/text-field/text-field-7/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form text field with auto focus",
+      "filePath": "jigx-templates/components/form/text-field/text-field-8/template.json",
+      "previewImgSrc": "jigx-templates/components/form/text-field/text-field-8/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form text field ignored",
+      "filePath": "jigx-templates/components/form/text-field/text-field-9/template.json",
+      "previewImgSrc": "jigx-templates/components/form/text-field/text-field-9/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form multiline and textarea field",
+      "filePath": "jigx-templates/components/form/text-field/text-field-10/template.json",
+      "previewImgSrc": "jigx-templates/components/form/text-field/text-field-10/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form text field with hidden optional label",
+      "filePath": "jigx-templates/components/form/text-field/text-field-11/template.json",
+      "previewImgSrc": "jigx-templates/components/form/text-field/text-field-11/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form text field required",
+      "filePath": "jigx-templates/components/form/text-field/text-field-12/template.json",
+      "previewImgSrc": "jigx-templates/components/form/text-field/text-field-12/preview.png",
       "jigLibraryRef": "jc-form"
     },
 

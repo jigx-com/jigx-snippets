@@ -1,0 +1,18 @@
+{
+  "instanceId": "form",
+  "options": {
+    "children": [
+      {
+        "instanceId": "text-field-6",
+        "options": {
+          "helperText": "With initial value",
+          "initialValue": "John Doe",
+          "isRequired": false,
+          "label": "Label 6"
+        },
+        "type": "component.text-field"
+      }
+    ]
+  },
+  "type": "component.form"
+}

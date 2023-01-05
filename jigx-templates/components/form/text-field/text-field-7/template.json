@@ -1,0 +1,18 @@
+{
+  "instanceId": "form",
+  "options": {
+    "children": [
+      {
+        "instanceId": "text-field-7",
+        "options": {
+          "helperText": "With auto correct",
+          "isAutoCorrected": true,
+          "isRequired": false,
+          "label": "Label 7"
+        },
+        "type": "component.text-field"
+      }
+    ]
+  },
+  "type": "component.form"
+}

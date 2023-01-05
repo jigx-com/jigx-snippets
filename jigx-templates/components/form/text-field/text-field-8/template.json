@@ -1,0 +1,18 @@
+{
+  "instanceId": "form",
+  "options": {
+    "children": [
+      {
+        "instanceId": "text-field-8",
+        "options": {
+          "helperText": "With auto focus",
+          "isAutoFocused": true,
+          "isRequired": false,
+          "label": "Label 8"
+        },
+        "type": "component.text-field"
+      }
+    ]
+  },
+  "type": "component.form"
+}

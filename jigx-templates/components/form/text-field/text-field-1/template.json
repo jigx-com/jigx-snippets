@@ -1,0 +1,18 @@
+{
+  "instanceId": "form",
+  "options": {
+    "children": [
+      {
+        "instanceId": "text-field-1",
+        "options": {
+          "autoCapitalize": "characters",
+          "helperText": "With auto capitalize characters",
+          "isRequired": false,
+          "label": "Label 1"
+        },
+        "type": "component.text-field"
+      }
+    ]
+  },
+  "type": "component.form"
+}
