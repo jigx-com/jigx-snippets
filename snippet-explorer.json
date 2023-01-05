@@ -947,17 +947,55 @@
     },
 
     {
-      "name": "Form media Field",
-      "filePath": "jigx-templates/components/form/form-10/template.json",
-      "previewImgSrc": "jigx-templates/components/form/form-10/preview.png",
+      "name": "Form media Field - Single select (optional)",
+      "filePath": "jigx-templates/components/form/media-field/media-field-1/template.json",
+      "previewImgSrc": "jigx-templates/components/form/media-field/media-field-1/preview.png",
       "jigLibraryRef": "jc-form"
     },
     {
-      "name": "Form number Field",
-      "filePath": "jigx-templates/components/form/form-11/template.json",
-      "previewImgSrc": "jigx-templates/components/form/form-11/preview.png",
+      "name": "Form media Field - Single select (required)",
+      "filePath": "jigx-templates/components/form/media-field/media-field-1/template.json",
+      "previewImgSrc": "jigx-templates/components/form/media-field/media-field-1/preview.png",
       "jigLibraryRef": "jc-form"
     },
+    {
+      "name": "Form media Field - Multi select (optional)",
+      "filePath": "jigx-templates/components/form/media-field/media-field-1/template.json",
+      "previewImgSrc": "jigx-templates/components/form/media-field/media-field-1/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+
+    {
+      "name": "Form number Field default",
+      "filePath": "jigx-templates/components/form/number-field/number-field-1/template.json",
+      "previewImgSrc": "jigx-templates/components/form/number-field/number-field-1/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form number Field with stepper",
+      "filePath": "jigx-templates/components/form/number-field/number-field-2/template.json",
+      "previewImgSrc": "jigx-templates/components/form/number-field/number-field-2/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form number Field formatted",
+      "filePath": "jigx-templates/components/form/number-field/number-field-3/template.json",
+      "previewImgSrc": "jigx-templates/components/form/number-field/number-field-3/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form number Field positive",
+      "filePath": "jigx-templates/components/form/number-field/number-field-4/template.json",
+      "previewImgSrc": "jigx-templates/components/form/number-field/number-field-4/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form number Field busy",
+      "filePath": "jigx-templates/components/form/number-field/number-field-5/template.json",
+      "previewImgSrc": "jigx-templates/components/form/number-field/number-field-5/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+
     {
       "name": "Form sections",
       "filePath": "jigx-templates/components/form/form-12/template.json",
