@@ -688,9 +688,9 @@
     },
 
     {
-      "name": "Form avatar",
-      "filePath": "jigx-templates/components/form/form-3/template.json",
-      "previewImgSrc": "jigx-templates/components/form/form-3/preview.png",
+      "name": "Form avatar field",
+      "filePath": "jigx-templates/components/form/avatar-field/template.json",
+      "previewImgSrc": "jigx-templates/components/form/avatar-field/preview.png",
       "jigLibraryRef": "jc-form"
     },
 
