@@ -1,0 +1,15 @@
+{
+  "instanceId": "Form",
+  "options": {
+    "children": [
+      {
+        "instanceId": "Avatar",
+        "options": {
+          "label": "Avatar"
+        },
+        "type": "component.avatar-field"
+      }
+    ]
+  },
+  "type": "component.form"
+}

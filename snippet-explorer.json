@@ -671,6 +671,198 @@
       "filePath": "jigx-templates/components/expander/expander-26/template.json",
       "previewImgSrc": "jigx-templates/components/expander/expander-26/preview.png",
       "jigLibraryRef": "jc-expander"
+    },
+
+    {
+      "name": "Form with all possible elements",
+      "filePath": "jigx-templates/components/form/form-1/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-1/preview.png",
+      "datasource": "jigx-templates/components/form/form-1/datasource.json",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Profile form",
+      "filePath": "jigx-templates/components/form/form-2/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-2/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+
+    {
+      "name": "Form avatar",
+      "filePath": "jigx-templates/components/form/form-3/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-3/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+
+    {
+      "name": "Form date picker",
+      "filePath": "jigx-templates/components/form/form-5-1/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-5-1/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form time picker",
+      "filePath": "jigx-templates/components/form/form-5-2/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-5-2/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form date-time picker",
+      "filePath": "jigx-templates/components/form/form-5-3/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-5-3/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+
+    {
+      "name": "Form dropdown regular",
+      "filePath": "jigx-templates/components/form/form-dropdown/dropdown-1/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-dropdown/dropdown-1/preview.png",
+      "datasource": "jigx-templates/components/form/form-dropdown/shared/datasource-1.json",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form dropdown with avatars",
+      "filePath": "jigx-templates/components/form/form-dropdown/dropdown-2/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-dropdown/dropdown-2/preview.png",
+      "datasource": "jigx-templates/components/form/form-dropdown/shared/datasource-1.json",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form dropdown with icons",
+      "filePath": "jigx-templates/components/form/form-dropdown/dropdown-3/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-dropdown/dropdown-3/preview.png",
+      "datasource": "jigx-templates/components/form/form-dropdown/shared/datasource-1.json",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form dropdown with images",
+      "filePath": "jigx-templates/components/form/form-dropdown/dropdown-4/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-dropdown/dropdown-4/preview.png",
+      "datasource": "jigx-templates/components/form/form-dropdown/shared/datasource-1.json",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form dropdown with color",
+      "filePath": "jigx-templates/components/form/form-dropdown/dropdown-5/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-dropdown/dropdown-5/preview.png",
+      "datasource": "jigx-templates/components/form/form-dropdown/shared/datasource-1.json",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form dropdown with error",
+      "filePath": "jigx-templates/components/form/form-dropdown/dropdown-6/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-dropdown/dropdown-6/preview.png",
+      "datasource": "jigx-templates/components/form/form-dropdown/shared/datasource-1.json",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form dropdown with custom right icon [not working]",
+      "filePath": "jigx-templates/components/form/form-dropdown/dropdown-7/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-dropdown/dropdown-7/preview.png",
+      "datasource": "jigx-templates/components/form/form-dropdown/shared/datasource-1.json",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form dropdown with initial value",
+      "filePath": "jigx-templates/components/form/form-dropdown/dropdown-8/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-dropdown/dropdown-8/preview.png",
+      "datasource": "jigx-templates/components/form/form-dropdown/shared/datasource-1.json",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form dropdown auto focused [not working]",
+      "filePath": "jigx-templates/components/form/form-dropdown/dropdown-9/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-dropdown/dropdown-9/preview.png",
+      "datasource": "jigx-templates/components/form/form-dropdown/shared/datasource-1.json",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form dropdown multiselect",
+      "filePath": "jigx-templates/components/form/form-dropdown/dropdown-10/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-dropdown/dropdown-10/preview.png",
+      "datasource": "jigx-templates/components/form/form-dropdown/shared/datasource-1.json",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form searchable dropdown",
+      "filePath": "jigx-templates/components/form/form-dropdown/dropdown-11/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-dropdown/dropdown-11/preview.png",
+      "datasource": "jigx-templates/components/form/form-dropdown/shared/datasource-2.json",
+      "jigLibraryRef": "jc-form"
+    },
+
+    {
+      "name": "Form email field",
+      "filePath": "jigx-templates/components/form/form-7/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-7/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form field row",
+      "filePath": "jigx-templates/components/form/form-8/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-8/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form checkbox",
+      "filePath": "jigx-templates/components/form/form-9/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-9/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form media Field",
+      "filePath": "jigx-templates/components/form/form-10/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-10/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form number Field",
+      "filePath": "jigx-templates/components/form/form-11/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-11/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form sections",
+      "filePath": "jigx-templates/components/form/form-12/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-12/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form signature field",
+      "filePath": "jigx-templates/components/form/form-13/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-13/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form text field",
+      "filePath": "jigx-templates/components/form/form-14/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-14/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+
+    {
+      "name": "Image ResizeMode: Cover / Height: 200",
+      "filePath": "jigx-templates/components/image/image-1/template.json",
+      "previewImgSrc": "jigx-templates/components/image/image-1/preview.png",
+      "jigLibraryRef": "jc-image"
+    },
+    {
+      "name": "Image ResizeMode: Contain / Height: 200",
+      "filePath": "jigx-templates/components/image/image-2/template.json",
+      "previewImgSrc": "jigx-templates/components/image/image-2/preview.png",
+      "jigLibraryRef": "jc-image"
+    },
+    {
+      "name": "Image ResizeMode: Center / Height: 200",
+      "filePath": "jigx-templates/components/image/image-3/template.json",
+      "previewImgSrc": "jigx-templates/components/image/image-3/preview.png",
+      "jigLibraryRef": "jc-image"
+    },
+    {
+      "name": "Image ResizeMode: Stretch / Height: 200",
+      "filePath": "jigx-templates/components/image/image-4/template.json",
+      "previewImgSrc": "jigx-templates/components/image/image-4/preview.png",
+      "jigLibraryRef": "jc-image"
     }
   ]
 }
