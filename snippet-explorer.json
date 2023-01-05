@@ -695,21 +695,77 @@
     },
 
     {
-      "name": "Form date picker",
-      "filePath": "jigx-templates/components/form/form-5-1/template.json",
-      "previewImgSrc": "jigx-templates/components/form/form-5-1/preview.png",
+      "name": "Form date picker empty",
+      "filePath": "jigx-templates/components/form/form-datepicker/datepicker-1/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-datepicker/datepicker-1/preview.png",
       "jigLibraryRef": "jc-form"
     },
     {
-      "name": "Form time picker",
-      "filePath": "jigx-templates/components/form/form-5-2/template.json",
-      "previewImgSrc": "jigx-templates/components/form/form-5-2/preview.png",
+      "name": "Form date picker with error",
+      "filePath": "jigx-templates/components/form/form-datepicker/datepicker-2/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-datepicker/datepicker-2/preview.png",
       "jigLibraryRef": "jc-form"
     },
     {
-      "name": "Form date-time picker",
-      "filePath": "jigx-templates/components/form/form-5-3/template.json",
-      "previewImgSrc": "jigx-templates/components/form/form-5-3/preview.png",
+      "name": "Form date picker with helper",
+      "filePath": "jigx-templates/components/form/form-datepicker/datepicker-3/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-datepicker/datepicker-3/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form date picker with initial value now",
+      "filePath": "jigx-templates/components/form/form-datepicker/datepicker-4/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-datepicker/datepicker-4/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form date picker with min and max value",
+      "filePath": "jigx-templates/components/form/form-datepicker/datepicker-5/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-datepicker/datepicker-5/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+
+    {
+      "name": "Form time picker with format HH:mm",
+      "filePath": "jigx-templates/components/form/form-timepicker/timepicker-1/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-timepicker/timepicker-1/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form time picker with custom color",
+      "filePath": "jigx-templates/components/form/form-timepicker/timepicker-2/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-timepicker/timepicker-2/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Time picker with initial value now",
+      "filePath": "jigx-templates/components/form/form-timepicker/timepicker-3/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-timepicker/timepicker-3/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form time picker with min and max",
+      "filePath": "jigx-templates/components/form/form-timepicker/timepicker-4/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-timepicker/timepicker-4/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+
+    {
+      "name": "Form Date picker mode - datetime",
+      "filePath": "jigx-templates/components/form/form-datetime-picker/datetime-picker-1/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-datetime-picker/datetime-picker-1/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form Date Time picker with the custom color",
+      "filePath": "jigx-templates/components/form/form-datetime-picker/datetime-picker-1/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-datetime-picker/datetime-picker-1/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form Date Time picker with initial value now",
+      "filePath": "jigx-templates/components/form/form-datetime-picker/datetime-picker-1/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-datetime-picker/datetime-picker-1/preview.png",
       "jigLibraryRef": "jc-form"
     },
 
@@ -792,23 +848,104 @@
     },
 
     {
-      "name": "Form email field",
-      "filePath": "jigx-templates/components/form/form-7/template.json",
-      "previewImgSrc": "jigx-templates/components/form/form-7/preview.png",
+      "name": "Form empty email field",
+      "filePath": "jigx-templates/components/form/form-email-field/email-field-1/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-email-field/email-field-1/preview.png",
       "jigLibraryRef": "jc-form"
     },
     {
-      "name": "Form field row",
-      "filePath": "jigx-templates/components/form/form-8/template.json",
-      "previewImgSrc": "jigx-templates/components/form/form-8/preview.png",
+      "name": "Form email field with helper",
+      "filePath": "jigx-templates/components/form/form-email-field/email-field-2/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-email-field/email-field-2/preview.png",
       "jigLibraryRef": "jc-form"
     },
     {
-      "name": "Form checkbox",
-      "filePath": "jigx-templates/components/form/form-9/template.json",
-      "previewImgSrc": "jigx-templates/components/form/form-9/preview.png",
+      "name": "Form email field with error",
+      "filePath": "jigx-templates/components/form/form-email-field/email-field-3/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-email-field/email-field-3/preview.png",
       "jigLibraryRef": "jc-form"
     },
+    {
+      "name": "Form email field loading",
+      "filePath": "jigx-templates/components/form/form-email-field/email-field-4/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-email-field/email-field-4/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form email field disabled",
+      "filePath": "jigx-templates/components/form/form-email-field/email-field-5/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-email-field/email-field-5/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form email field positive",
+      "filePath": "jigx-templates/components/form/form-email-field/email-field-6/template.json",
+      "previewImgSrc": "jigx-templates/components/form/form-email-field/email-field-6/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+
+    {
+      "name": "Form field row one item",
+      "filePath": "jigx-templates/components/form/field-row/field-row-1/template.json",
+      "previewImgSrc": "jigx-templates/components/form/field-row/field-row-1/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form field row two items",
+      "filePath": "jigx-templates/components/form/field-row/field-row-2/template.json",
+      "previewImgSrc": "jigx-templates/components/form/field-row/field-row-2/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form field row three items",
+      "filePath": "jigx-templates/components/form/field-row/field-row-3/template.json",
+      "previewImgSrc": "jigx-templates/components/form/field-row/field-row-3/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+
+    {
+      "name": "Form checkbox default state",
+      "filePath": "jigx-templates/components/form/checkbox/checkbox-1/template.json",
+      "previewImgSrc": "jigx-templates/components/form/checkbox/checkbox-1/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form checkbox checked state",
+      "filePath": "jigx-templates/components/form/checkbox/checkbox-2/template.json",
+      "previewImgSrc": "jigx-templates/components/form/checkbox/checkbox-2/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form checkbox positive state",
+      "filePath": "jigx-templates/components/form/checkbox/checkbox-3/template.json",
+      "previewImgSrc": "jigx-templates/components/form/checkbox/checkbox-3/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form checkbox warning state",
+      "filePath": "jigx-templates/components/form/checkbox/checkbox-4/template.json",
+      "previewImgSrc": "jigx-templates/components/form/checkbox/checkbox-4/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form checkbox danger state",
+      "filePath": "jigx-templates/components/form/checkbox/checkbox-5/template.json",
+      "previewImgSrc": "jigx-templates/components/form/checkbox/checkbox-5/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form checkbox disabled default state",
+      "filePath": "jigx-templates/components/form/checkbox/checkbox-6/template.json",
+      "previewImgSrc": "jigx-templates/components/form/checkbox/checkbox-6/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+    {
+      "name": "Form checkbox disabled checked state",
+      "filePath": "jigx-templates/components/form/checkbox/checkbox-7/template.json",
+      "previewImgSrc": "jigx-templates/components/form/checkbox/checkbox-7/preview.png",
+      "jigLibraryRef": "jc-form"
+    },
+
     {
       "name": "Form media Field",
       "filePath": "jigx-templates/components/form/form-10/template.json",

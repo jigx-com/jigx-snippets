@@ -1,0 +1,20 @@
+{
+  "instanceId": "form",
+  "options": {
+    "children": [
+      {
+        "instanceId": "checkbox7",
+        "options": {
+          "helperText": "Checked state",
+          "label": "Checkbox - Disabled",
+          "style": {
+            "isDisabled": true
+          },
+          "value": true
+        },
+        "type": "component.checkbox"
+      }
+    ]
+  },
+  "type": "component.form"
+}

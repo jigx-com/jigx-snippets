@@ -1,0 +1,30 @@
+{
+  "instanceId": "form",
+  "options": {
+    "children": [
+      {
+        "options": {
+          "title": "Field row with one item",
+          "children": [
+            {
+              "options": {
+                "children": [
+                  {
+                    "instanceId": "first-name1",
+                    "options": {
+                      "label": "First name"
+                    },
+                    "type": "component.text-field"
+                  }
+                ]
+              },
+              "type": "component.field-row"
+            }
+          ]
+        },
+        "type": "component.section"
+      }
+    ]
+  },
+  "type": "component.form"
+}

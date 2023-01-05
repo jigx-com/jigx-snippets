@@ -1,0 +1,18 @@
+{
+  "instanceId": "form",
+  "options": {
+    "children": [
+      {
+        "instanceId": "email-field3",
+        "options": {
+          "errorText": "Wrong format. Use format: email@email.com",
+          "icon": "email",
+          "label": "Email with Error",
+          "value": "email@jigx.com"
+        },
+        "type": "component.email-field"
+      }
+    ]
+  },
+  "type": "component.form"
+}

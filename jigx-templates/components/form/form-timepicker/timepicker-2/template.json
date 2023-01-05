@@ -1,0 +1,32 @@
+{
+  "instanceId": "form",
+  "options": {
+    "children": [
+      {
+        "options": {
+          "title": "Time",
+          "children": [
+            {
+              "instanceId": "time-picker2",
+              "options": {
+                "color": [
+                  {
+                    "color": "color2",
+                    "when": true
+                  }
+                ],
+                "helperText": "Time picker with custom color",
+                "isRequired": true,
+                "label": "Date picker mode - time",
+                "mode": "time"
+              },
+              "type": "component.date-picker"
+            }
+          ]
+        },
+        "type": "component.section"
+      }
+    ]
+  },
+  "type": "component.form"
+}

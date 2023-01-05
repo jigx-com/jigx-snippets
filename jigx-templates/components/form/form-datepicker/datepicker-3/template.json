@@ -1,0 +1,24 @@
+{
+  "instanceId": "form",
+  "options": {
+    "children": [
+      {
+        "options": {
+          "title": "Date",
+          "children": [
+            {
+              "instanceId": "date-picker3",
+              "options": {
+                "helperText": "Help for the date-picker",
+                "label": "Date with Helper"
+              },
+              "type": "component.date-picker"
+            }
+          ]
+        },
+        "type": "component.section"
+      }
+    ]
+  },
+  "type": "component.form"
+}

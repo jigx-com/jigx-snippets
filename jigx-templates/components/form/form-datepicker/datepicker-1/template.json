@@ -1,0 +1,23 @@
+{
+  "instanceId": "form",
+  "options": {
+    "children": [
+      {
+        "options": {
+          "title": "Date",
+          "children": [
+            {
+              "instanceId": "date-picker1",
+              "options": {
+                "label": "Empty Date"
+              },
+              "type": "component.date-picker"
+            }
+          ]
+        },
+        "type": "component.section"
+      }
+    ]
+  },
+  "type": "component.form"
+}

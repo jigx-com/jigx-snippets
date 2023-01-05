@@ -1,0 +1,17 @@
+{
+  "instanceId": "form",
+  "options": {
+    "children": [
+      {
+        "instanceId": "checkbox1",
+        "options": {
+          "helperText": "Default state",
+          "label": "Checkbox",
+          "value": false
+        },
+        "type": "component.checkbox"
+      }
+    ]
+  },
+  "type": "component.form"
+}
