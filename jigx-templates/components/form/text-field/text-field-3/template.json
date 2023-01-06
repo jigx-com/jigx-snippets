@@ -1,18 +1,10 @@
 {
-  "instanceId": "form",
+  "instanceId": "text-field-3",
   "options": {
-    "children": [
-      {
-        "instanceId": "text-field-3",
-        "options": {
-          "errorText": "With error description",
-          "helperText": "With error text",
-          "isRequired": false,
-          "label": "Label 3"
-        },
-        "type": "component.text-field"
-      }
-    ]
+    "errorText": "With error description",
+    "helperText": "With error text",
+    "isRequired": false,
+    "label": "Label 3"
   },
-  "type": "component.form"
+  "type": "component.text-field"
 }

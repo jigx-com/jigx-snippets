@@ -1,15 +1,7 @@
 {
-  "instanceId": "form",
+  "instanceId": "signature-field",
   "options": {
-    "children": [
-      {
-        "instanceId": "signature-field",
-        "options": {
-          "label": "Signature"
-        },
-        "type": "component.signature-field"
-      }
-    ]
+    "label": "Signature"
   },
-  "type": "component.form"
+  "type": "component.signature-field"
 }

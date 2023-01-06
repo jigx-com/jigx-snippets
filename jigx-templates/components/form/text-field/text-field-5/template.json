@@ -1,18 +1,10 @@
 {
-  "instanceId": "form",
+  "instanceId": "text-field-5",
   "options": {
-    "children": [
-      {
-        "instanceId": "text-field-5",
-        "options": {
-          "helperText": "With icon",
-          "icon": "champagne-cheers",
-          "isRequired": false,
-          "label": "Label 5"
-        },
-        "type": "component.text-field"
-      }
-    ]
+    "helperText": "With icon",
+    "icon": "champagne-cheers",
+    "isRequired": false,
+    "label": "Label 5"
   },
-  "type": "component.form"
+  "type": "component.text-field"
 }

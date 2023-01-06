@@ -1,19 +1,11 @@
 {
-  "instanceId": "form",
+  "instanceId": "checkbox3",
   "options": {
-    "children": [
-      {
-        "instanceId": "checkbox3",
-        "options": {
-          "label": "Checkbox - Positive",
-          "style": {
-            "isPositive": true
-          },
-          "value": true
-        },
-        "type": "component.checkbox"
-      }
-    ]
+    "label": "Checkbox - Positive",
+    "style": {
+      "isPositive": true
+    },
+    "value": true
   },
-  "type": "component.form"
+  "type": "component.checkbox"
 }

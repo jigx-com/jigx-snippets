@@ -1,19 +1,11 @@
 {
-  "instanceId": "form",
+  "instanceId": "checkbox4",
   "options": {
-    "children": [
-      {
-        "instanceId": "checkbox4",
-        "options": {
-          "label": "Checkbox - Warning",
-          "style": {
-            "isWarning": true
-          },
-          "value": true
-        },
-        "type": "component.checkbox"
-      }
-    ]
+    "label": "Checkbox - Warning",
+    "style": {
+      "isWarning": true
+    },
+    "value": true
   },
-  "type": "component.form"
+  "type": "component.checkbox"
 }

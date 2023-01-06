@@ -1,18 +1,10 @@
 {
-  "instanceId": "form",
+  "instanceId": "media-field3",
   "options": {
-    "children": [
-      {
-        "instanceId": "media-field3",
-        "options": {
-          "isMultiple": true,
-          "isRequired": false,
-          "label": "Media field - Multi select",
-          "mediaType": "image"
-        },
-        "type": "component.media-field"
-      }
-    ]
+    "isMultiple": true,
+    "isRequired": false,
+    "label": "Media field - Multi select",
+    "mediaType": "image"
   },
-  "type": "component.form"
+  "type": "component.media-field"
 }

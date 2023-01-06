@@ -1,17 +1,9 @@
 {
-  "instanceId": "form",
+  "instanceId": "media-field",
   "options": {
-    "children": [
-      {
-        "instanceId": "media-field",
-        "options": {
-          "isRequired": false,
-          "label": "Media field - Single select",
-          "mediaType": "image"
-        },
-        "type": "component.media-field"
-      }
-    ]
+    "isRequired": false,
+    "label": "Media field - Single select",
+    "mediaType": "image"
   },
-  "type": "component.form"
+  "type": "component.media-field"
 }

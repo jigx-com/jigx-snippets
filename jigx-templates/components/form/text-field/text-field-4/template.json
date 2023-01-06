@@ -1,21 +1,13 @@
 {
-  "instanceId": "form",
+  "instanceId": "text-field-4",
   "options": {
-    "children": [
-      {
-        "instanceId": "text-field-4",
-        "options": {
-          "format": {
-            "currency": "USD",
-            "currencySign": "standard"
-          },
-          "helperText": "With format currency",
-          "isRequired": false,
-          "label": "Label 4"
-        },
-        "type": "component.text-field"
-      }
-    ]
+    "format": {
+      "currency": "USD",
+      "currencySign": "standard"
+    },
+    "helperText": "With format currency",
+    "isRequired": false,
+    "label": "Label 4"
   },
-  "type": "component.form"
+  "type": "component.text-field"
 }

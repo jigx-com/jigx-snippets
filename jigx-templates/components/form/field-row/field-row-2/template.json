@@ -1,37 +1,21 @@
 {
-  "instanceId": "form",
   "options": {
     "children": [
       {
+        "instanceId": "first-name2",
         "options": {
-          "title": "Field row with two items",
-          "children": [
-            {
-              "options": {
-                "children": [
-                  {
-                    "instanceId": "first-name2",
-                    "options": {
-                      "label": "First name"
-                    },
-                    "type": "component.text-field"
-                  },
-                  {
-                    "instanceId": "last-name2",
-                    "options": {
-                      "label": "Last name"
-                    },
-                    "type": "component.text-field"
-                  }
-                ]
-              },
-              "type": "component.field-row"
-            }
-          ]
+          "label": "First name"
         },
-        "type": "component.section"
+        "type": "component.text-field"
+      },
+      {
+        "instanceId": "last-name2",
+        "options": {
+          "label": "Last name"
+        },
+        "type": "component.text-field"
       }
     ]
   },
-  "type": "component.form"
+  "type": "component.field-row"
 }
