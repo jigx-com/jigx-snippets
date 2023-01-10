@@ -7,7 +7,7 @@
         {
           "options": {
             "title": "Add new opportunity",
-            "linkTo": "template-list-2"
+            "linkTo": "type-list-2"
           },
           "type": "action.go-to"
         }
@@ -30,7 +30,7 @@
       "type": "datasource.static"
     }
   },
-  "data": "=@ctx.datasources.components",
+  "data": "=\\$filter(@ctx.datasources.components, function(\\$v, \\$i, \\$a) {\n  @ctx.jig.state.filter = 'ALL' or \\$v.result = @ctx.jig.state.filter\n}) \n",
   "item": {
     "options": {
       "title": "=@ctx.current.item.name",
@@ -57,6 +57,20 @@
     },
     "type": "component.list-item"
   },
+  "filter": [
+    {
+      "title": "All",
+      "value": "ALL"
+    },
+    {
+      "title": "Won",
+      "value": "Success"
+    },
+    {
+      "title": "Lost",
+      "value": "Unsuccess"
+    }
+  ],
   "header": {
     "options": {
       "title": "Opportunities",
