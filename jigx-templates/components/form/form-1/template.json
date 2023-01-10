@@ -127,7 +127,7 @@
         "options": {
           "format": {
             "currencyDisplay": "symbol",
-            "unit": "$"
+            "unit": "\\$"
           },
           "helperText": "Text field with the icon",
           "label": "Label",
@@ -147,7 +147,7 @@
           ],
           "format": {
             "currencyDisplay": "symbol",
-            "unit": "$"
+            "unit": "\\$"
           },
           "label": "Label"
         },

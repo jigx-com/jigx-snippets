@@ -26,7 +26,7 @@
             "progress": 0.78,
             "subtitle": "Low inventory",
             "total": 100,
-            "value": "$154.000"
+            "value": "\\$154.000"
           },
           {
             "avatar-text": "B",
@@ -35,7 +35,7 @@
             "name": "Product 2",
             "progress": 0.3,
             "total": 800,
-            "value": "$120.000"
+            "value": "\\$120.000"
           },
           {
             "avatar-text": "C",
@@ -43,7 +43,7 @@
             "description": "Description",
             "name": "Product 3",
             "total": 800,
-            "value": "$115.000"
+            "value": "\\$115.000"
           },
           {
             "avatar-text": "D",
@@ -52,7 +52,7 @@
             "description": "Description",
             "name": "Product 4",
             "total": 100,
-            "value": "$107.000"
+            "value": "\\$107.000"
           },
           {
             "avatar-text": "E",
@@ -61,7 +61,7 @@
             "description": "Description",
             "name": "Product 5",
             "total": 1000,
-            "value": "$102.500"
+            "value": "\\$102.500"
           },
           {
             "avatar-text": "F",
@@ -70,7 +70,7 @@
             "description": "Description",
             "name": "Product 6",
             "total": 400,
-            "value": "$98.000"
+            "value": "\\$98.000"
           },
           {
             "avatar-text": "G",
@@ -79,7 +79,7 @@
             "description": "Description",
             "name": "Product 7",
             "total": 800,
-            "value": "$56.000"
+            "value": "\\$56.000"
           },
           {
             "avatar-text": "H",
@@ -88,7 +88,7 @@
             "description": "Description",
             "name": "Product 8",
             "total": 1000,
-            "value": "$42.000"
+            "value": "\\$42.000"
           },
           {
             "avatar-text": "I",
@@ -97,7 +97,7 @@
             "description": "Description",
             "name": "Product 9",
             "total": 200,
-            "value": "$38.500"
+            "value": "\\$38.500"
           },
           {
             "avatar-text": "J",
@@ -106,7 +106,7 @@
             "description": "Description",
             "name": "Product 10",
             "total": 2000,
-            "value": "$37.000"
+            "value": "\\$37.000"
           }
         ]
       },
@@ -206,7 +206,7 @@
   "summary": {
     "children": {
       "options": {
-        "title": "=$count(@ctx.datasources.inventory) & \" Products\"",
+        "title": "=\\$count(@ctx.datasources.inventory) & \" Products\"",
         "subtitle": "In total",
         "layout": "default",
         "leftIcon": {

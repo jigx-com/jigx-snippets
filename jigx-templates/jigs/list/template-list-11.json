@@ -46,7 +46,7 @@
       "type": "datasource.static"
     }
   },
-  "data": "=$filter(@ctx.datasources.filter-list, function($v, $i, $a) {\n  @ctx.jig.state.filter = 'ALL' or $v.status = @ctx.jig.state.filter\n}) \n",
+  "data": "=\\$filter(@ctx.datasources.filter-list, function(\\$v, \\$i, \\$a) {\n  @ctx.jig.state.filter = 'ALL' or \\$v.status = @ctx.jig.state.filter\n}) \n",
   "item": {
     "options": {
       "title": "=@ctx.current.item.title",

@@ -48,7 +48,7 @@
       "progress": "=@ctx.current.item.progress",
       "rightElement": {
         "element": "value",
-        "text": "=\"$ \" & @ctx.current.item.value"
+        "text": "=\"\\$ \" & @ctx.current.item.value"
       },
       "style": {
         "isError": "=(@ctx.current.item.result= 'Unsuccess' ? true :false)",
@@ -71,9 +71,9 @@
     "children": {
       "options": {
         "title": "Opportunities",
-        "subtitle": "=\"Worth than\" & \" $ \" & $sum(@ctx.datasources.components.value)",
+        "subtitle": "=\"Worth than\" & \" \\$ \" & \\$sum(@ctx.datasources.components.value)",
         "layout": "counter",
-        "value": "=$count(@ctx.datasources.components)"
+        "value": "=\\$count(@ctx.datasources.components)"
       },
       "type": "component.summary"
     }
