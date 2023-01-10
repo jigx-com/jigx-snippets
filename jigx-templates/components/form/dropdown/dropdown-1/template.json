@@ -1,7 +1,7 @@
 {
   "instanceId": "dropdown-1",
   "options": {
-    "data": "=@ctx.datasources.dropdown",
+    "data": "=@ctx.datasources.${1:dropdown}",
     "item": {
       "options": {
         "title": "=@ctx.current.item.value",

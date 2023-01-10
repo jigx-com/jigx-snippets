@@ -1,5 +1,5 @@
 {
-  "dropdown": {
+  "${1:dropdown}": {
     "options": {
       "data": [
         {
