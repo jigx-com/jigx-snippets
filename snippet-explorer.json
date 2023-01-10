@@ -774,77 +774,77 @@
       "filePath": "jigx-templates/components/form/dropdown/dropdown-1/template.json",
       "previewImgSrc": "jigx-templates/components/form/dropdown/dropdown-1/preview.png",
       "datasource": "jigx-templates/components/form/dropdown/shared/datasource-1.json",
-      "jigLibraryRef": "jc-form"
+      "jigLibraryRef": "jc-dropdown"
     },
     {
       "name": "Form dropdown with avatars",
       "filePath": "jigx-templates/components/form/dropdown/dropdown-2/template.json",
       "previewImgSrc": "jigx-templates/components/form/dropdown/dropdown-2/preview.png",
       "datasource": "jigx-templates/components/form/dropdown/shared/datasource-1.json",
-      "jigLibraryRef": "jc-form"
+      "jigLibraryRef": "jc-dropdown"
     },
     {
       "name": "Form dropdown with icons",
       "filePath": "jigx-templates/components/form/dropdown/dropdown-3/template.json",
       "previewImgSrc": "jigx-templates/components/form/dropdown/dropdown-3/preview.png",
       "datasource": "jigx-templates/components/form/dropdown/shared/datasource-1.json",
-      "jigLibraryRef": "jc-form"
+      "jigLibraryRef": "jc-dropdown"
     },
     {
       "name": "Form dropdown with images",
       "filePath": "jigx-templates/components/form/dropdown/dropdown-4/template.json",
       "previewImgSrc": "jigx-templates/components/form/dropdown/dropdown-4/preview.png",
       "datasource": "jigx-templates/components/form/dropdown/shared/datasource-1.json",
-      "jigLibraryRef": "jc-form"
+      "jigLibraryRef": "jc-dropdown"
     },
     {
       "name": "Form dropdown with color",
       "filePath": "jigx-templates/components/form/dropdown/dropdown-5/template.json",
       "previewImgSrc": "jigx-templates/components/form/dropdown/dropdown-5/preview.png",
       "datasource": "jigx-templates/components/form/dropdown/shared/datasource-1.json",
-      "jigLibraryRef": "jc-form"
+      "jigLibraryRef": "jc-dropdown"
     },
     {
       "name": "Form dropdown with error",
       "filePath": "jigx-templates/components/form/dropdown/dropdown-6/template.json",
       "previewImgSrc": "jigx-templates/components/form/dropdown/dropdown-6/preview.png",
       "datasource": "jigx-templates/components/form/dropdown/shared/datasource-1.json",
-      "jigLibraryRef": "jc-form"
+      "jigLibraryRef": "jc-dropdown"
     },
     {
       "name": "Form dropdown with custom right icon [not working]",
       "filePath": "jigx-templates/components/form/dropdown/dropdown-7/template.json",
       "previewImgSrc": "jigx-templates/components/form/dropdown/dropdown-7/preview.png",
       "datasource": "jigx-templates/components/form/dropdown/shared/datasource-1.json",
-      "jigLibraryRef": "jc-form"
+      "jigLibraryRef": "jc-dropdown"
     },
     {
       "name": "Form dropdown with initial value",
       "filePath": "jigx-templates/components/form/dropdown/dropdown-8/template.json",
       "previewImgSrc": "jigx-templates/components/form/dropdown/dropdown-8/preview.png",
       "datasource": "jigx-templates/components/form/dropdown/shared/datasource-1.json",
-      "jigLibraryRef": "jc-form"
+      "jigLibraryRef": "jc-dropdown"
     },
     {
       "name": "Form dropdown auto focused [not working]",
       "filePath": "jigx-templates/components/form/dropdown/dropdown-9/template.json",
       "previewImgSrc": "jigx-templates/components/form/dropdown/dropdown-9/preview.png",
       "datasource": "jigx-templates/components/form/dropdown/shared/datasource-1.json",
-      "jigLibraryRef": "jc-form"
+      "jigLibraryRef": "jc-dropdown"
     },
     {
       "name": "Form dropdown multiselect",
       "filePath": "jigx-templates/components/form/dropdown/dropdown-10/template.json",
       "previewImgSrc": "jigx-templates/components/form/dropdown/dropdown-10/preview.png",
       "datasource": "jigx-templates/components/form/dropdown/shared/datasource-1.json",
-      "jigLibraryRef": "jc-form"
+      "jigLibraryRef": "jc-dropdown"
     },
     {
       "name": "Form searchable dropdown",
       "filePath": "jigx-templates/components/form/dropdown/dropdown-11/template.json",
       "previewImgSrc": "jigx-templates/components/form/dropdown/dropdown-11/preview.png",
       "datasource": "jigx-templates/components/form/dropdown/shared/datasource-2.json",
-      "jigLibraryRef": "jc-form"
+      "jigLibraryRef": "jc-dropdown"
     },
 
     {
@@ -1000,7 +1000,7 @@
       "name": "Form sections",
       "filePath": "jigx-templates/components/form/sections/template.json",
       "previewImgSrc": "jigx-templates/components/form/sections/preview.png",
-      "jigLibraryRef": "jc-form-section"
+      "jigLibraryRef": "jc-form"
     },
 
     {
