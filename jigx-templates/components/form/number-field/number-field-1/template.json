@@ -1,9 +1,0 @@
-{
-  "instanceId": "number-field1",
-  "options": {
-    "helperText": "Default Number Field",
-    "label": "Number",
-    "value": 1
-  },
-  "type": "component.number-field"
-}
